@@ -5,6 +5,8 @@ h1 {
 .rune-category-container {
     display: flex;
     gap: 1rem;
+    flex-wrap: wrap;
+    justify-content: center;
 }
 
 .rune-category {
@@ -17,6 +19,9 @@ h1 {
     background-color: #383838;
     padding: 8px;
     display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1rem;
 
 }
 
