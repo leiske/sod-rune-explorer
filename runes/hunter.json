@@ -1,0 +1,13 @@
+{
+    "runes": {
+        "chest": [
+            {
+                "name": "Cobra Strikes",
+                "desc": "Your critical hits with Shot abilities cause your pet's next 2 special attacks to critically hit.",
+                "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/Season-of-Discovery-Hunter-Rune-Cobra-Strikes.jpg"
+            }
+        ],
+        "glove": [],
+        "leg": []
+    }
+}
