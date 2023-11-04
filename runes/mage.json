@@ -1,0 +1,71 @@
+{
+    "name": "mage",
+    "iconSrc": "https://wow.zamimg.com/images/wow/icons/large/classicon_mage.jpg",
+    "runes": {
+        "chest": [
+            {
+                "name": "Regeneration",
+                "desc": "Heals the target for 485 health over 3 sec and applies Temporal Beacon for 30 sec.",
+                "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/regeneration-icon.jpg",
+                "secondarySpell": {
+                    "desc": "Records the subject’s space-time position. 100% of all Arcane damage done by the caster will be converted to chronomantic healing and divided among the caster’s current Temporal Beacon targets.",
+                    "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/Temporal-Beacon-Icon.jpg"
+                }
+            },
+            {
+                "name": "",
+                "desc": "",
+                "icon": ""
+            },
+            {
+                "name": "",
+                "desc": "",
+                "icon": ""
+            }
+        ],
+        "glove": [
+            {
+                "name": "",
+                "desc": "",
+                "icon": ""
+            },
+            {
+                "name": "",
+                "desc": "",
+                "icon": ""
+            },
+            {
+                "name": "",
+                "desc": "",
+                "icon": ""
+            },
+            {
+                "name": "",
+                "desc": "",
+                "icon": ""
+            }
+        ],
+        "leg": [
+            {
+                "name": "",
+                "desc": "",
+                "icon": ""
+            },
+            {
+                "name": "",
+                "desc": "",
+                "icon": ""
+            },
+            {
+                "name": "",
+                "desc": "",
+                "icon": ""
+            },
+            {
+                "name": "",
+                "desc": "",
+                "icon": ""
+            }
+        ]
+    }
+}

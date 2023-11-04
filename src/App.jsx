@@ -1,13 +1,14 @@
 import './App.css'
 import { hunter } from '../runes/hunter.json';
 import { druid } from '../runes/druid.json';
+import { rogue } from '../runes/rogue.json';
 import { Tooltip } from './runeTooltip/tooltip';
-import { useState } from 'react';
 
 function App() {
   const classes = [
       hunter,
       druid,
+      rogue,
   ];
 
   const defaultClassName = hunter.name;

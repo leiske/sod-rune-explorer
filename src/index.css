@@ -37,8 +37,14 @@ body {
     gap: .5rem;
 }
 
-.tooltip-bullet, .tooltip-desc {
+.tooltip-bullet, .tooltip-desc, .tooltip-combo-point {
     color: #ffc415;
+}
+
+.tooltip-combo-point-container {
+    display: flex;
+    flex-direction: column;
+    margin-left: 2em;
 }
 
 .tooltip-name {
