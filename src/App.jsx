@@ -6,6 +6,8 @@ import { mage } from '../runes/mage.json';
 import { priest } from '../runes/priest.json';
 import { warlock } from '../runes/warlock.json';
 import { warrior } from '../runes/warrior.json';
+import { paladin } from '../runes/paladin.json';
+import { shaman } from '../runes/shaman.json';
 import { Tooltip } from './runeTooltip/tooltip';
 
 function App() {
@@ -17,6 +19,8 @@ function App() {
       priest,
       warlock,
       warrior,
+      paladin,
+      shaman,
   ];
 
   const defaultClassName = hunter.name;

@@ -1,72 +1,77 @@
 {
-    "name": "",
-    "iconSrc": "",
-    "runes": {
-        "chest": [
-            {
-                "name": "",
-                "desc": "",
-                "icon": ""
-            },
-            {
-                "name": "",
-                "desc": "",
-                "icon": ""
-            },
-            {
-                "name": "",
-                "desc": "",
-                "icon": ""
-            },
-            {
-                "name": "",
-                "desc": "",
-                "icon": ""
-            }
-        ],
-        "glove": [
-            {
-                "name": "",
-                "desc": "",
-                "icon": ""
-            },
-            {
-                "name": "",
-                "desc": "",
-                "icon": ""
-            },
-            {
-                "name": "",
-                "desc": "",
-                "icon": ""
-            },
-            {
-                "name": "",
-                "desc": "",
-                "icon": ""
-            }
-        ],
-        "leg": [
-            {
-                "name": "",
-                "desc": "",
-                "icon": ""
-            },
-            {
-                "name": "",
-                "desc": "",
-                "icon": ""
-            },
-            {
-                "name": "",
-                "desc": "",
-                "icon": ""
-            },
-            {
-                "name": "",
-                "desc": "",
-                "icon": ""
-            }
-        ]
+    "paladin": {
+        "name": "paladin",
+        "iconSrc": "https://wow.zamimg.com/images/wow/icons/large/classicon_paladin.jpg",
+        "runes": {
+            "chest": [
+                {
+                    "name": "Seal of Martyrdom",
+                    "desc": "Fills you with holy spirit for 30 sec, causing each of your melee attacks to deal 30% weapon damage to up to 3 nearby targets, but you lose health equal to 10% of the damage inflicted. While this seal is active, your party members within 40 yards each gain mana equal to 2% of all damage you take.",
+                    "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/seal-of-martyrdom.webp"
+                },
+                {
+                    "name": "Divine Storm",
+                    "desc": "An instant weapon attack that causes 110% of weapon damage to up to 4 enemies within 8 yards. The Divine Storm heals up to 3 party or raid members totaling 25% of the damage caused.",
+                    "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/ability_paladin_divinestorm.jpg"
+                },
+                {
+                    "name": "Horn of Lordaeron",
+                    "desc": "The Paladin blows the Horn of Lordaeron, which increases total Strength and Agility of all party members within 30 yards by 17. Lasts 2 min. Exclusive with Blessing of Might.",
+                    "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/inv_misc_horn_03.jpg"
+                },
+                {
+                    "name": "Aegis",
+                    "desc": "Increases your block value by 30% and damaging melee and ranged attacks against you have a 10% chance to increase your chance to block by 30%. Lasts 10 sec or 5 blocks. Effect not cumulative with Redoubt.",
+                    "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/aegis-icon.jpg"
+                }
+            ],
+            "leg": [
+                {
+                    "name": "Divine Sacrifice",
+                    "desc": "30% of all damage taken by party and members within 30 yards is redirected to the Paladin for 10 sec. Damage which reduces the Paladin below 20% health will break the effect and grant the paladin 10% increased damage and healing done for 10 sec.",
+                    "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/divine-sacrifice.jpg"
+                },
+                {
+                    "name": "Inspiration Exemplar",
+                    "desc": "Your inspiring presence periodically dispels Fear and Sleep effects on nearby party members.",
+                    "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/holy-power-icon.jpg"
+                },
+                {
+                    "name": "Avengers Shield",
+                    "desc": "Hurls a holy shield at the enemy, dealing 165 to 197 Holy damage, Dazing them and then jumping to additional nearby enemies. Affects 3 total targets. Lasts 10 sec.",
+                    "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/avengers-shield-icon.jpg"
+                },
+                {
+                    "name": "Exorcist",
+                    "desc": "Exorcism can now be cast on any target and has 100% increased critical strike chance against Undead and Demons.",
+                    "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/holy-wrath-icon.jpg"
+                },
+                {
+                    "name": "Rebuke",
+                    "desc": "Interrupts spellcasting and prevents any spell in that school from being cast for 2 sec.",
+                    "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/rebuke-icon.jpg"
+                }
+            ],
+            "glove": [
+                {
+                    "name": "Beacon of Light",
+                    "desc": "The target becomes a Beacon of Light to all members of your party or raid within a 60 yard radius. Any heals you cast on party or raid members will also heal the Beacon for 100% of the amount healed. Only one target can be the Beacon of Light at a time. Lasts 1 min.",
+                    "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/beacon-of-light.jpg"
+                },
+                {
+                    "name": "Crusader Strike",
+                    "desc": "An instant strike that causes 75% weapon damage and regenerates 2% of your maximum mana.",
+                    "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/crusader-strike-icon.jpg"
+                },
+                {
+                    "name": "Hand of Reckoning",
+                    "desc": "Taunts the target to attack you, but has no effect if the target is already attacking you.",
+                    "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/HoR-icon.jpg",
+                    "bullets": [
+                        "While you know this ability, the threat bonus from Righteous Fury is increased to 80% and Righteous Fury causes you gain mana when healed by others equal to 25% of the amount healed. Additionally, while Righteous Fury is active, damage which takes you below 35% health is reduced by 20%. Righteous Fury will remain active until cancelled."
+                    ]
+                }
+            ]
+        }
     }
 }

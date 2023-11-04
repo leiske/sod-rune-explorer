@@ -1,72 +1,74 @@
 {
-    "name": "",
-    "iconSrc": "",
-    "runes": {
-        "chest": [
-            {
-                "name": "",
-                "desc": "",
-                "icon": ""
-            },
-            {
-                "name": "",
-                "desc": "",
-                "icon": ""
-            },
-            {
-                "name": "",
-                "desc": "",
-                "icon": ""
-            },
-            {
-                "name": "",
-                "desc": "",
-                "icon": ""
-            }
-        ],
-        "glove": [
-            {
-                "name": "",
-                "desc": "",
-                "icon": ""
-            },
-            {
-                "name": "",
-                "desc": "",
-                "icon": ""
-            },
-            {
-                "name": "",
-                "desc": "",
-                "icon": ""
-            },
-            {
-                "name": "",
-                "desc": "",
-                "icon": ""
-            }
-        ],
-        "leg": [
-            {
-                "name": "",
-                "desc": "",
-                "icon": ""
-            },
-            {
-                "name": "",
-                "desc": "",
-                "icon": ""
-            },
-            {
-                "name": "",
-                "desc": "",
-                "icon": ""
-            },
-            {
-                "name": "",
-                "desc": "",
-                "icon": ""
-            }
-        ]
+    "shaman": {
+        "name": "shaman",
+        "iconSrc": "https://wow.zamimg.com/images/wow/icons/large/classicon_shaman.jpg",
+        "runes": {
+            "chest": [
+                {
+                    "name": "Dual Wield Specialization",
+                    "desc": "Increases your chance to hit with both spells and melee attacks by 5% while dual wielding and your Stormstrike ability now hits with both weapons while dual wielding.",
+                    "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/dual-wield-icon.jpg"
+                },
+                {
+                    "name": "Healing Rain",
+                    "desc": "Selects the area 15 yards around target player, and heals all target player’s part members within that area for 20 every second.",
+                    "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/healing-rain-icon.jpg"
+                },
+                {
+                    "name": "Overload",
+                    "desc": "Gives your Lightening Bolt, Chain Lightening, Chain Heal, Healing Wave, and Lava Bust spells a 33% chance to cast a second, similar spell on the same target at no additional cost that causes half damage or healing and no threat.",
+                    "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/overload-icon.jpg"
+                },
+                {
+                    "name": "Shield Mastery",
+                    "desc": "Each time you Block, you regenerate mana equal to 4% of your maximum mana and you gain Armor equal to 30% of your shield’s armor value, stacking up to 5 times. You also always gain 10% increased chance to Block and 15% increased Block value.",
+                    "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/shield-mastery.jpg"
+                }
+            ],
+            "glove": [
+                {
+                    "name": "Lava Burst",
+                    "desc": "You hurl molten lava at the target, dealing 198 to 256 Fire damage. If your Flame Shock is on the target, Lava Burst will deal a critical strike.",
+                    "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/lava-burst-icon.jpg"
+                },
+                {
+                    "name": "Lava Lash",
+                    "desc": "You charge your off-hand weapons with lava, instantly dealing 100% off-hand Weapon damage. Damage is increased by 20% if your off-hand weapon is enchanted with Flametongue.",
+                    "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/lava-lash-icon.jpg"
+                },
+                {
+                    "name": "Molten Blast",
+                    "desc": "Blast enemies in a cone in front of you for 46 to 61 Fire damage. This ability generates a high amount of thread. Frame Shock periodic damage has a 10% chance to reset the cooldown on Molton Black.",
+                    "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/molten-blast.jpg"
+                },
+                {
+                    "name": "Water Shield",
+                    "desc": "The caster is surrounded by 3 globes of water, granting 1%of your maximum mana per 5 sec. When a spell, melee or ranged attack hits the caster, 4% of maximum mana is restored to the caster. This expends one water globe. Only one globe will activate every few seconds. Lasts 10 min. Only one Elemental Shield can be active on the Shaman at any one time.",
+                    "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/water-shield-icon.jpg"
+                }
+            ],
+            "leg": [
+                {
+                    "name": "Ancestral Guidance",
+                    "desc": "For the next 10 sec, 25% of your damage is converted to healing on up to 3 nearby party, and 100% of your healing is converted to damage on your most Flame Shock target.",
+                    "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/ancestral-guidance-icon.jpg"
+                },
+                {
+                    "name": "Earth Shield",
+                    "desc": "Protects the target with an earthen shield, reducing casting or channeling time lost when damaged by 30% and causing attacks to heal the shielded target for 100. This effect and only occur once every few seconds. 3 Charges. Lasts 10 min. Earth Shield can only be placed on one target at a time and only one Elemental Shield can be active on a target at a time.",
+                    "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/earth-shield-icon.jpg"
+                },
+                {
+                    "name": "Shamanistic Rage",
+                    "desc": "Reduces all damage you take by 20% and you regenerate mana every second for 15 sec. Manage regenerated per second is equal to 15% of your attack power, 10% of your spell power, or 6% of your healing power, whichever value is greatest.",
+                    "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/shamanistic-rage-icon.jpg"
+                },
+                {
+                    "name": "Way of Earth",
+                    "desc": "While Rockbiter Weapon is active on your main hand weapon, you deal 100% increased threat, gain 30% increased health, take 10% reduced damage, gain 6% reduced change to be critically hit by melee attacks, and Earth Shock taunts targets to attack you and has a separate cooldown from the other Shock spells but has it’s Range reduced to melee range.",
+                    "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/way-of-earth-icon.jpg"
+                }
+            ]
+        }
     }
 }
