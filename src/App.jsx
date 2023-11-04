@@ -54,18 +54,27 @@ function App() {
   }
 
   const selectedClass = classes.find(({ name }) => name === selectedClassName);
+  const selectedIcon = "https://wow.zamimg.com/images/wow/icons/large/spell_nature_wispsplode.jpg";
+
   return (
-    <>
+    <div className="page-container">
         <div className="class-nav-container">
             {classes.map((sodClass) =>
-                    <img 
-                        src={sodClass.iconSrc} 
-                        key={sodClass.iconSrc} 
+                    <div
+                        className="class-icon-container"
                         onClick={() => setSelectedClass(sodClass.name)}
-                        className={`class-icon ${sodClass.iconSrc === selectedClass.iconSrc ? 'class-icon-selected' : ''}`}
-                    />)}
+                        key={sodClass.name}
+                    >
+                        <img 
+                            src={sodClass.iconSrc === selectedClass.iconSrc ? selectedIcon : sodClass.iconSrc} 
+                            className="class-icon"
+                        />
+                        <img className={`${sodClass.iconSrc === selectedClass.iconSrc ? 'class-icon-selected' : '' } class-icon-highlight`} src="https://wow.zamimg.com/images/Icon/large/hilite/default.png" />
+                    </div>
+                )}
         </div>
 
+        <h1 className="class-title">{selectedClassName} Season of Discovery Runes</h1>
         <div className="rune-category-container">
             <div className="rune-category">
                 <h1>Chest Runes</h1>
@@ -80,7 +89,7 @@ function App() {
                 {selectedClass.runes.leg.map(rune => <Tooltip key={rune.name} rune={rune} />)}
             </div>
         </div>
-    </>
+    </div>
   )
 }
 

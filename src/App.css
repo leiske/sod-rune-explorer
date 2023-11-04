@@ -1,3 +1,7 @@
+body {
+    margin: 0;
+}
+
 h1 {
   color: #fff;
 }
@@ -23,13 +27,41 @@ h1 {
     justify-content: center;
     gap: 1rem;
 
+    width: 100%
 }
 
 .class-icon {
     border-radius: 8px;
-    max-width: 64px;
+    max-width: 56px;
 }
 
-.class-icon-selected {
-    border: 8px solid yellow;
+.class-icon-container {
+    position: relative;
+    display: inline;
+}
+
+.class-icon-highlight {
+    position: absolute;
+    right: 0;
+    bottom: 6px;
+    max-width: 58px;
+    background: url("https://wow.zamimg.com/images/Icon/large/hilite/default.png") no-repeat 62px 0;
+    border-radius: 8px;
+    opacity: 0%;
+}
+
+.class-icon-highlight:hover, .class-icon-selected {
+  opacity: 100%;
+  transition: opacity .1s;
+}
+
+.class-title {
+    text-transform: capitalize;
+}
+
+.page-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }

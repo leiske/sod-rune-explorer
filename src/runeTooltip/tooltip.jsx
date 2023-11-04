@@ -16,7 +16,7 @@ export function Tooltip({ rune }) {
 }
 
 export function SecondarySkill({ rune }) {
-    const { secondarySpells } = rune;
+    const { secondarySpells, name: parentName } = rune;
 
     if (!secondarySpells) {
         return null;
@@ -25,7 +25,7 @@ export function SecondarySkill({ rune }) {
     return (
         <div className="secondary-spell-container">
             {secondarySpells && secondarySpells.map(({ desc, icon, name }) => (
-                <div className="secondary-spell">
+                <div className="secondary-spell" key={desc + parentName}>
                     { name && <p className="tooltip-desc">{ name }</p> }
                     <img className="tooltip-icon" src={icon}/>
                     <p className="tooltip-desc">{ desc }</p>
