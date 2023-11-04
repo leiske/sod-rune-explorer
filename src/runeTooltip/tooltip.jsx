@@ -5,7 +5,7 @@ export function Tooltip({ rune }) {
 
     return (
         <div className="tooltip">
-            <p className="tooltip-name">{ name }</p>
+            <h3 className="tooltip-name">{ name }</h3>
             <img className="tooltip-icon" src={icon}/>
             <p className="tooltip-desc">{ desc }</p>
         </div>

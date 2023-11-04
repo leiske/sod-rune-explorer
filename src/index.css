@@ -10,6 +10,15 @@
   -webkit-text-size-adjust: 100%;
 }
 
+p {
+    all: unset;
+}
+
+h3 {
+    margin: unset;
+    font-weight: unset;
+}
+
 body {
       background-color: #101010;
 }
@@ -21,6 +30,11 @@ body {
     border-radius: 8px;
 
     max-width: 336px;
+
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: .5rem;
 }
 
 .tooltip-desc {
@@ -30,4 +44,7 @@ body {
 .tooltip-name {
     color: white;
 }
-.tooltip-icon {}
+
+.tooltip-icon {
+    max-width: 48px;
+}
