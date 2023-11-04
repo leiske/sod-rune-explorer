@@ -1,72 +1,74 @@
 {
-    "name": "",
-    "iconSrc": "",
-    "runes": {
-        "chest": [
-            {
-                "name": "",
-                "desc": "",
-                "icon": ""
-            },
-            {
-                "name": "",
-                "desc": "",
-                "icon": ""
-            },
-            {
-                "name": "",
-                "desc": "",
-                "icon": ""
-            },
-            {
-                "name": "",
-                "desc": "",
-                "icon": ""
-            }
-        ],
-        "glove": [
-            {
-                "name": "",
-                "desc": "",
-                "icon": ""
-            },
-            {
-                "name": "",
-                "desc": "",
-                "icon": ""
-            },
-            {
-                "name": "",
-                "desc": "",
-                "icon": ""
-            },
-            {
-                "name": "",
-                "desc": "",
-                "icon": ""
-            }
-        ],
-        "leg": [
-            {
-                "name": "",
-                "desc": "",
-                "icon": ""
-            },
-            {
-                "name": "",
-                "desc": "",
-                "icon": ""
-            },
-            {
-                "name": "",
-                "desc": "",
-                "icon": ""
-            },
-            {
-                "name": "",
-                "desc": "",
-                "icon": ""
-            }
-        ]
+    "warrior": {
+        "name": "warrior",
+        "iconSrc": "https://wow.zamimg.com/images/wow/icons/large/classicon_warrior.jpg",
+        "runes": {
+            "chest": [
+                {
+                    "name": "Blood Frenzy",
+                    "desc": "Each time you deal Bleed damage, you gain 3 rage.",
+                    "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/Season-of-Discovery-Warrior-Rune-Blood-Frenzy.jpg"
+                },
+                {
+                    "name": "Flagellation",
+                    "desc": "Gain a 25% bonus to Physical damage done for 12 sec after activating Bloodrage or Berserker Rage.",
+                    "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/Season-of-Discovery-Warrior-Rune-Flagellation.jpg"
+                },
+                {
+                    "name": "Raging Blow",
+                    "desc": "A ferocious strike that deals 100% weapon damage, but can only be used while Enrage, Berserker Rage, or Bloodrage is active.",
+                    "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/Season-of-Discovery-Warrior-Rune-Raging-Blow.jpg"
+                },
+                {
+                    "name": "Warbringer",
+                    "desc": "Your Charge, Intercept, and Intervene abilities are now usable while in combat and in any stance, and will all remove movement impairing effects when activated.",
+                    "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/Season-of-Discovery-Warrior-Rune-Warbringer.jpg"
+                }
+            ],
+            "glove": [
+                {
+                    "name": "Devastate",
+                    "desc": "While you are in Defensive Stance and have a shield equipped, Sunder Armor also deals 100% weapons damage, increased by 10% per application of Sunder Armor already on the target.",
+                    "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/Season-of-Discovery-Warrior-Rune-Devastate.jpg"
+                },
+                {
+                    "name": "Endless Rage",
+                    "desc": "You generate 25% more Rage from all damage you deal.",
+                    "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/Season-of-Discovery-Warrior-Rune-Endless-Rage.jpg"
+                },
+                {
+                    "name": "Single-Minded Fury",
+                    "desc": "While dual-wielding, your Physical damage and movement speed are increased by 10%.",
+                    "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/Season-of-Discovery-Warrior-Rune-Single-Minded-Fury.jpg"
+                },
+                {
+                    "name": "Victory Rush",
+                    "desc": "Instantly attack the target causing 151 damage and healing you for 10% of your maximum health. Only useable within 20 sec after you kill an enemy that yields experience or honor.",
+                    "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/Season-of-Discovery-Warrior-Rune-Victory-Rush.jpg"
+                },
+                {
+                    "name": "Quick Strike",
+                    "desc": "A reckless instant melee attack with your two-handed weapon dealing 51-84 physical damage. This ability benefits from and triggers all effects associated with Herioc Strike.",
+                    "icon": "https://wow.zamimg.com/images/wow/icons/large/inv_axe_03.jpg"
+                }
+            ],
+            "leg": [
+                {
+                    "name": "Consumed by Rage",
+                    "desc": "Enrages you and grants you a 25% melee damage bonus for 12 sec or up to a maximum of 12 swings after you exceed 80 Rage.",
+                    "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/Season-of-Discovery-Warrior-Rune-Consumed-by-Rage.jpg"
+                },
+                {
+                    "name": "Frenzied Assault",
+                    "desc": "While wielding 2-handed weapons, your attack speed is increased by 20%.",
+                    "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/Season-of-Discovery-Warrior-Rune-Frenzied-Assault.jpg"
+                },
+                {
+                    "name": "Furious Thunder",
+                    "desc": "Thunder Clap now increases the time between attacks by an additional 6% and can be used in any stance.",
+                    "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/Season-of-Discovery-Warrior-Rune-Furious-Thunder.jpg"
+                }
+            ]
+        }
     }
 }

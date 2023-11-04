@@ -5,6 +5,7 @@ import { rogue } from '../runes/rogue.json';
 import { mage } from '../runes/mage.json';
 import { priest } from '../runes/priest.json';
 import { warlock } from '../runes/warlock.json';
+import { warrior } from '../runes/warrior.json';
 import { Tooltip } from './runeTooltip/tooltip';
 
 function App() {
@@ -15,6 +16,7 @@ function App() {
       mage,
       priest,
       warlock,
+      warrior,
   ];
 
   const defaultClassName = hunter.name;

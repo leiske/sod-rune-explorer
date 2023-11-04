@@ -6,13 +6,25 @@
             "chest": [
                 {
                     "name": "Lake of Fire",
-                    "desc": "Rain of Fire also leaves a Lake of Fire on the ground that increases all fire damage you deal and your Demon pet deals to affected enemies by 40% for 15 sec.",
-                    "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/lake-of-fire-icon.jpg"
+                    "desc": "Gain the Lake of Fire ability:",
+                    "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/lake-of-fire-icon.jpg",
+                    "secondarySpells": [
+                        {
+                            "desc": "Rain of Fire also leaves a Lake of Fire on the ground that increases all fire damage you deal and your Demon pet deals to affected enemies by 40% for 15 sec.",
+                            "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/lake-of-fire-icon.jpg"
+                        }
+                    ]
                 },
                 {
                     "name": "Master Channeler",
-                    "desc": "Your Drain life is no longer channeled, lasts 15 sec with a 15 sec cooldown, costs 100% more mana, and heals you for 50% more each time it deals damage.",
-                    "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/master-channeler.jpg"
+                    "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/master-channeler.jpg",
+                    "desc": "Gain the Master Channeler ability:",
+                    "secondarySpells": [
+                        {
+                            "desc": "Your Drain life is no longer channeled, lasts 15 sec with a 15 sec cooldown, costs 100% more mana, and heals you for 50% more each time it deals damage.",
+                            "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/master-channeler.jpg"
+                        }
+                    ]
                 },
                 {
                     "name": "Soul Siphon",
@@ -50,8 +62,15 @@
                 },
                 {
                     "name": "Shadow Bolt Volley",
-                    "desc": "Your Shadow Bolt now strikes up to 5 targets within a chain distance of 10 yards, but for 20 reduced damage.",
-                    "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/shadow-bolt-volley.jpg"
+                    "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/shadow-bolt-volley.jpg",
+                    "desc": "Gain the Shadow Bolt Volley ability:",
+
+                    "secondarySpells": [
+                        {
+                            "desc": "Your Shadow Bolt now strikes up to 5 targets within a chain distance of 10 yards, but for 20 reduced damage.",
+                            "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/shadow-bolt-volley.jpg"
+                        }
+                    ]
                 },
                 {
                     "name": "Chaos Bolt",
