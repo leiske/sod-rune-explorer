@@ -55,3 +55,15 @@ body {
     max-width: 48px;
     border-radius: 4px;
 }
+
+.secondary-spell {
+    display: flex;
+    flex-direction: column;
+}
+
+.secondary-spell-container {
+    margin-top: 1rem;
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}

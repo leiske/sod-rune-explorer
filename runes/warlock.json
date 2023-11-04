@@ -1,0 +1,91 @@
+{
+    "warlock": {
+        "name": "warlock",
+        "iconSrc": "https://wow.zamimg.com/images/wow/icons/large/classicon_warlock.jpg",
+        "runes": {
+            "chest": [
+                {
+                    "name": "Lake of Fire",
+                    "desc": "Rain of Fire also leaves a Lake of Fire on the ground that increases all fire damage you deal and your Demon pet deals to affected enemies by 40% for 15 sec.",
+                    "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/lake-of-fire-icon.jpg"
+                },
+                {
+                    "name": "Master Channeler",
+                    "desc": "Your Drain life is no longer channeled, lasts 15 sec with a 15 sec cooldown, costs 100% more mana, and heals you for 50% more each time it deals damage.",
+                    "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/master-channeler.jpg"
+                },
+                {
+                    "name": "Soul Siphon",
+                    "desc": "Increases the amount drained by your Drain Life and Drain Soul spells by an additional 6% for each of your Warlock Shadow effects afflicting the target, up to a maximum of 18% additional effect.",
+                    "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/drain-life.jpg"
+                },
+                {
+                    "name": "Demonic Tactics",
+                    "desc": "Increases the melee and spell critical strike chance of you and your pet by 10%.",
+                    "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/demonic-tactics.jpg"
+                }
+            ],
+            "glove": [
+                {
+                    "name": "Metamorphosis",
+                    "desc": "Transform into a Demon, increasing Armor by 500%, reducing the chance you will be critically hit by 6%, increasing your threat by 100%, increasing mana gained from Life Tap by 100%, transforming the functionality of some of your abilities, and granting some new abilities:",
+                    "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/meta-icon.jpg",
+                    "bullets": [
+                        "Searing Pain: Now instant.",
+                        "Shadow Bolt: Becomes Shadow Cleave, a Shadow melee attack that hits up to 3 nearby enemies, but has a 6 sec cooldown.",
+                        "Curse of Recklessness: Now also taunts your target to attack you for 3 sec, but gains a 10 sec cooldown and range is reduced to melee."
+                    ],
+                    "secondarySpells": [
+                        {
+                            "name": "Demon Charge",
+                            "icon": "https://wow.zamimg.com/images/wow/icons/large/ability_warstomp.jpg",
+                            "desc": "Charge an enemy and stun it for 1 sec. Cannot be used in combat."
+                        },
+                        {
+                            "name": "Demonic Howl",
+                            "icon": "https://wow.zamimg.com/images/wow/icons/large/ability_bullrush.jpg",
+                            "desc": "Forces all nearby enemies to focus attacks on you for 6 sec."
+                        }
+                    ]
+                },
+                {
+                    "name": "Shadow Bolt Volley",
+                    "desc": "Your Shadow Bolt now strikes up to 5 targets within a chain distance of 10 yards, but for 20 reduced damage.",
+                    "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/shadow-bolt-volley.jpg"
+                },
+                {
+                    "name": "Chaos Bolt",
+                    "desc": "Sends a bolt of chaotic fire at the enemy, dealing 225 to 286 Fire damage. Chaos Bolt always hits, cannot be resisted, and its knowledge causes all your Fire spells to pierce through absorption effects.",
+                    "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/Chaos-Bolt-icon.jpg"
+                },
+                {
+                    "name": "Haunt",
+                    "desc": "Unleashes a ghostly soul on an enemy, dealing 108 to 127 damage, and increasing all Shadow damage over time you deal to that target by 20%. When the Haunt ends or is dispelled, you will be healed for all the damage it dealt to your target.",
+                    "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/haunt-icon.jpg"
+                }
+            ],
+            "leg": [
+                {
+                    "name": "Everlasting Affliction",
+                    "desc": "Drain Life, Drain Soul, Shadowbolt, Shadow Cleave, Searing Pain, Incinerate, and Haunt refresh the duration of your corruption on the target back to its maximum duration.",
+                    "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/everlasting-affliction.jpg"
+                },
+                {
+                    "name": "Incinerate",
+                    "desc": "Burn your enemy for 96 to 111 damage and increase all Fire damage you deal by 25% for the next 15 sec.",
+                    "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/incinerate-icon.jpg"
+                },
+                {
+                    "name": "Demonic Grace",
+                    "desc": "Surge with fel energy, increasing your pet’s and your own dodge chance by 30%, and your chance to critically strike with all attacks by 30%. Lasts 6 sec.",
+                    "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/demonic-grace-icon.webp"
+                },
+                {
+                    "name": "Demonic Pact",
+                    "desc": "Your pet’s critical strikes apply the Demonic Pact effect to your party members for 45 sec. Demonic Pact increases spell damage and healing by 10% of your spell damage or 13, whichever is higher. Does not work on Subjugated demons.",
+                    "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/demonic-pact-icon.jpg"
+                }
+            ]
+        }
+    }
+}

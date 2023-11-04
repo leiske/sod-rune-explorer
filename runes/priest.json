@@ -1,0 +1,74 @@
+{
+    "priest": {
+        "name": "priest",
+        "iconSrc": "https://wow.zamimg.com/images/wow/icons/large/classicon_priest.jpg",
+        "runes": {
+            "chest": [
+                {
+                    "name": "Strength of Soul",
+                    "desc": "Lesser Heal, Heal, Greater Heal, and Flash Heal reduce the remaining duration of Weakened Soul on targets they heal by 4 sec.",
+                    "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/Strength-of-Soul.jpg"
+                },
+                {
+                    "name": "Serendipity",
+                    "desc": "Healing with Flash Heal reduces the cast time of your next Lesser Heal, Heal, greater Heal, or Prayer of Healing by 20% for 20 sec, stacking up to 3 times.",
+                    "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/serendipity.jpg"
+                },
+                {
+                    "name": "Void Plague",
+                    "desc": "Afflicts the target with a disease that causes 116 Shadow damage over 18 sec.",
+                    "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/void-plague-icon.jpg"
+                },
+                {
+                    "name": "Twisted Faith",
+                    "desc": "Mind Flay and Mind Blast deal 20% increased damage to targets afflicted with your Shadow Word: Pain.",
+                    "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/Twisted-Faith.jpg"
+                }
+            ],
+            "glove": [
+                {
+                    "name": "Shadow Word: Death",
+                    "desc": "A word of dark binding that inflicts 130 to 152 Shadow damage to the target. If the target is not killed by Shadow Word: Death, the caster takes damage equal to the damage inflicted upon the target.",
+                    "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/spell_shadow_demonicfortitude.jpg"
+                },
+                {
+                    "name": "Circle of Healing",
+                    "desc": "Heals all of the target player’s party members within 15 yards of target player for 82 to 92.",
+                    "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/CoH-icon.jpg"
+                },
+                {
+                    "name": "Penance",
+                    "desc": "Launches a volley of holy light at the target, causing 64 Holy damage to an enemy, or 171 healing to an ally, instantly and every 1 sec for 2 sec.",
+                    "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/penance-icon.jpg"
+                },
+                {
+                    "name": "Mind Sear",
+                    "desc": "Causes an explosion of shadow magic around the enemy target, causing 35 to 39 Shadow damage every 1 sec for 5 sec to all enemies within 10 yards around the target.",
+                    "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/mind-sear-icon.jpg"
+                }
+            ],
+            "leg": [
+                {
+                    "name": "Prayer of Mending",
+                    "desc": "Places a spell on the target that heals them for 15 the next time they take damage or receive healing. When the heal occurs, Prayer of mending jumps to a party or raid member within 20 yards. Jumps up to 5 times and lasts 30 sec after each jump. This spell can only be placed on one target at a time.",
+                    "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/PoM-Icon.jpg"
+                },
+                {
+                    "name": "Homunculi",
+                    "desc": "Break off splinters of your soul to animate 3 miniature copies of yourself that attempt to attack your current target with a mace, sword, and axe, reducing the attack speed, attack power, and armor respectively of any target they hit.",
+                    "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/homunculi-icon.jpg"
+                },
+                {
+                    "name": "Shared Pain",
+                    "desc": "Your Shadow Word: Pain now also afflicts up to 2 additional nearby targets within 15 yards.",
+                    "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/shared-pain-icon.jpg"
+                },
+                {
+                    "name": "Power Word: Barrier",
+                    "desc": "Summons a holy barrier to protect all party members at the target location for 10 sec, reducing all damage taken by 25% and preventing damage from delaying spellcasting.",
+                    "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/divine-sacrifice.jpg"
+                }
+            ]
+        }
+    }
+}

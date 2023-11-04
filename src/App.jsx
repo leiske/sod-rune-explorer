@@ -2,6 +2,9 @@ import './App.css'
 import { hunter } from '../runes/hunter.json';
 import { druid } from '../runes/druid.json';
 import { rogue } from '../runes/rogue.json';
+import { mage } from '../runes/mage.json';
+import { priest } from '../runes/priest.json';
+import { warlock } from '../runes/warlock.json';
 import { Tooltip } from './runeTooltip/tooltip';
 
 function App() {
@@ -9,6 +12,9 @@ function App() {
       hunter,
       druid,
       rogue,
+      mage,
+      priest,
+      warlock,
   ];
 
   const defaultClassName = hunter.name;

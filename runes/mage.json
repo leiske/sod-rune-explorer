@@ -1,71 +1,86 @@
 {
-    "name": "mage",
-    "iconSrc": "https://wow.zamimg.com/images/wow/icons/large/classicon_mage.jpg",
-    "runes": {
-        "chest": [
-            {
-                "name": "Regeneration",
-                "desc": "Heals the target for 485 health over 3 sec and applies Temporal Beacon for 30 sec.",
-                "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/regeneration-icon.jpg",
-                "secondarySpell": {
-                    "desc": "Records the subject’s space-time position. 100% of all Arcane damage done by the caster will be converted to chronomantic healing and divided among the caster’s current Temporal Beacon targets.",
-                    "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/Temporal-Beacon-Icon.jpg"
+    "mage": {
+        "name": "mage",
+        "iconSrc": "https://wow.zamimg.com/images/wow/icons/large/classicon_mage.jpg",
+        "runes": {
+            "chest": [
+                {
+                    "name": "Regeneration",
+                    "desc": "Heals the target for 485 health over 3 sec and applies Temporal Beacon for 30 sec.",
+                    "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/regeneration-icon.jpg",
+                    "secondarySpells":[
+                        {
+                            "desc": "Records the subject’s space-time position. 100% of all Arcane damage done by the caster will be converted to chronomantic healing and divided among the caster’s current Temporal Beacon targets.",
+                            "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/Temporal-Beacon-Icon.jpg"
+                        }
+                    ]
+                },
+                {
+                    "name": "Fingers of Frost",
+                    "desc": "Gives your Chill effects a 15% chance to grant you the Fingers of Frost effect, which treats your next 2 spells cast as if the target were Frozen. Lasts 15 sec.",
+                    "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/Fingers-of-Frost-Icon.jpg"
+                },
+                {
+                    "name": "Burnout",
+                    "desc": "Increases your spell critical strike chance with all spells by 15%, but your non-periodic spell critical strikes now have an additional mana cost of 1% of your base mana.",
+                    "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/Burnout-Icon.jpg"
+                },
+                {
+                    "name": "Enlightenment",
+                    "desc": "You deal 10% more damage while you have more than 70% mana. While below 30% mana 10% of your mana regeneration continues while casting.",
+                    "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/enlightenment.jpg"
                 }
-            },
-            {
-                "name": "",
-                "desc": "",
-                "icon": ""
-            },
-            {
-                "name": "",
-                "desc": "",
-                "icon": ""
-            }
-        ],
-        "glove": [
-            {
-                "name": "",
-                "desc": "",
-                "icon": ""
-            },
-            {
-                "name": "",
-                "desc": "",
-                "icon": ""
-            },
-            {
-                "name": "",
-                "desc": "",
-                "icon": ""
-            },
-            {
-                "name": "",
-                "desc": "",
-                "icon": ""
-            }
-        ],
-        "leg": [
-            {
-                "name": "",
-                "desc": "",
-                "icon": ""
-            },
-            {
-                "name": "",
-                "desc": "",
-                "icon": ""
-            },
-            {
-                "name": "",
-                "desc": "",
-                "icon": ""
-            },
-            {
-                "name": "",
-                "desc": "",
-                "icon": ""
-            }
-        ]
+            ],
+            "glove": [
+                {
+                    "name": "Rewind Time",
+                    "desc": "Your current target with your Temporal Beacon instantly heals all damage taken over the last 5 seconds. ineffective on targets that did not have a Temporal Beacon 5 seconds ago.",
+                    "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/Rewind-Time-Icon.jpg"
+                },
+                {
+                    "name": "Ice Lance",
+                    "desc": "Deals 23 to 27 Frost damage to an enemy target. Causes triple damage against Frozen targets.",
+                    "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/Ice-lance-icon.jpg"
+                },
+                {
+                    "name": "Arcane Blast",
+                    "desc": "Blasts the target with energy, dealing 19 to 221 Arcane damage. Each time you cast Arcane Blast, the damage and healing of all other Arcane spells is increased by 15% and mana cost of Arcane Blast is increased by 175%. Effect stacks up to 4 times and lasts 6 sec or until any other Arcane damage or healing spell is cast.",
+                    "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/arcane-blast-icon.jpg"
+                },
+                {
+                    "name": "Living Bomb",
+                    "desc": "The target becomes a Living Bomb, taking 142 Fire damage over 12 sec. After 12 sec or when the spell is dispelled, the target explodes dealing 72 Fire damage to all enemies 10 yards.",
+                    "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/living-bomb-icon.jpg"
+                }
+            ],
+            "leg": [
+                {
+                    "name": "Living Flame",
+                    "desc": "Summons a spellfire flame that moves toward the target, leaving a trail of spellfire. This trail deals 42 Spellfire damage every second to nearby enemies. Lasts 20 sec.",
+                    "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/Living-Flame-icon.jpg"
+                },
+                {
+                    "name": "Mass Regeneration",
+                    "desc": "Heals all of target player’s party members within 15 yards of target player for 262 health over 3 sec and applies Temporal Beacon to each target for 15 sec.",
+                    "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/regeneration2-icon.jpg",
+                    "secondarySpells":[
+                        {
+                            "desc": "Records the subject’s space-time position. 100% of all Arcane damage done by the caster will be converted to chronomantic healing and divided among the caster’s current Temporal Beacon targets.",
+                            "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/Temporal-Beacon-Icon.jpg"
+                        }
+                    ]
+                },
+                {
+                    "name": "Arcane Surge",
+                    "desc": "Unleash all of your remaining mana in a surge of energy focused at the target dealing 95 to 111 Arcane damage, increased by up to 300% based on your mana remaining. Afterward, your normal mana regeneration is activated and increased by 300% for 8 sec.",
+                    "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/arcane-surge-icon.jpg"
+                },
+                {
+                    "name": "Icy Veins",
+                    "desc": "Hastens your spellcasting, increasing spell casting speed by 20% and reduces the pushback suffered from damaging attacks while casting by 100%. Lasts 20 sec.",
+                    "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/icy-veins-icon.jpg"
+                }
+            ]
+        }
     }
 }

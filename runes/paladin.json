@@ -1,0 +1,72 @@
+{
+    "name": "",
+    "iconSrc": "",
+    "runes": {
+        "chest": [
+            {
+                "name": "",
+                "desc": "",
+                "icon": ""
+            },
+            {
+                "name": "",
+                "desc": "",
+                "icon": ""
+            },
+            {
+                "name": "",
+                "desc": "",
+                "icon": ""
+            },
+            {
+                "name": "",
+                "desc": "",
+                "icon": ""
+            }
+        ],
+        "glove": [
+            {
+                "name": "",
+                "desc": "",
+                "icon": ""
+            },
+            {
+                "name": "",
+                "desc": "",
+                "icon": ""
+            },
+            {
+                "name": "",
+                "desc": "",
+                "icon": ""
+            },
+            {
+                "name": "",
+                "desc": "",
+                "icon": ""
+            }
+        ],
+        "leg": [
+            {
+                "name": "",
+                "desc": "",
+                "icon": ""
+            },
+            {
+                "name": "",
+                "desc": "",
+                "icon": ""
+            },
+            {
+                "name": "",
+                "desc": "",
+                "icon": ""
+            },
+            {
+                "name": "",
+                "desc": "",
+                "icon": ""
+            }
+        ]
+    }
+}
