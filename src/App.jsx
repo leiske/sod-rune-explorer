@@ -6,9 +6,20 @@ function App() {
     console.log({ runes });
 
   return (
-    <>
-            <Tooltip rune={runes.chest[0]} />
-    </>
+    <div className="rune-category-container">
+        <div className="rune-category">
+            <h1>Chest Runes</h1>
+            {runes.chest.map(rune => <Tooltip rune={rune} />)}
+        </div>
+        <div className="rune-category">
+            <h1>Gloves Runes</h1>
+            {runes.glove.map(rune => <Tooltip rune={rune} />)}
+        </div>
+        <div className="rune-category">
+            <h1>Leg Runes</h1>
+            {runes.leg.map(rune => <Tooltip rune={rune} />)}
+        </div>
+    </div>
   )
 }
 

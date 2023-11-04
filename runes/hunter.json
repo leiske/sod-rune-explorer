@@ -5,9 +5,71 @@
                 "name": "Cobra Strikes",
                 "desc": "Your critical hits with Shot abilities cause your pet's next 2 special attacks to critically hit.",
                 "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/Season-of-Discovery-Hunter-Rune-Cobra-Strikes.jpg"
+            },
+            {
+                "name": "Expose Weakness",
+                "desc": "Your ranged criticals increase your attack power by 40% of your current Agility for 7 sec.",
+                "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/Season-of-Discovery-Hunter-Rune-Expose-Weakness.jpg"
+            },
+            {
+                "name": "Lone Wolf",
+                "desc": "You deal 25% increased damage with all attacks while you do not have an active pet.",
+                "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/Season-of-Discovery-Hunter-Rune-Lone-Wolf.jpg"
+            },
+            {
+                "name": "Master Marksman",
+                "desc": "Increases your critical strike chance by 5%, and reduces the Mana cost of all your Shot abilities by 25%.",
+                "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/Season-of-Discovery-Hunter-Rune-Master-Marksman.jpg"
             }
         ],
-        "glove": [],
-        "leg": []
+        "glove": [
+            {
+                "name": "Beast Mastery",
+                "desc": "Your pet’s damage and health are increased by 30%, and it’s Focus regeneration by 80%. In addition, your pet’s Growl now also Taunts the target to attack it for 3 sec.",
+                "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/Season-of-Discovery-Hunter-Rune-Beast-Mastery.jpg"
+            },
+            {
+                "name": "Carve",
+                "desc": "A sweeping attack that strikes all enemies in front of you for 50% weapon damage.",
+                "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/Season-of-Discovery-Hunter-Rune-Carve.jpg"
+            },
+            {
+                "name": "Chimera Shot",
+                "desc": "You deal 125% weapon damage, refreshing the current Sting on your target and triggering an effect:",
+                "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/Season-of-Discovery-Hunter-Rune-Chimera-Shot.jpg",
+                "bullets": [
+                    "Serpent Sting – Instantly deals 40% of the damage done by your Serpent Sting.",
+                    "Viper Sting – Instantly restores mana to you equal to 60% of the total amount drained by your Viper Sting.",
+                    "Scorpid Sting – Attempts to Disarm the target for 10 sec. This effect cannot occur more than once per 1 minute."
+                ]
+            },
+            {
+                "name": "Explosive Shot",
+                "desc": "You fire an explosive charge into the enemy target, dealing 81-98 Fire damage. The charge will blast the target every second for an additional 2 sec. Cooldown shared with Arcane Shot.",
+                "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/Season-of-Discovery-Hunter-Rune-Explosive-Shot.jpg"
+            }
+        ],
+        "leg": [
+            {
+                "name": "Flanking Strike",
+                "desc": "You and your pet deal simultaneous instant 100% melee damage. Afterward, your Mongoose Bite and Raptor Strike deal 10% increased damage for 10 sec, stacking up to 3 times. Raptor Strike has a 20% change to reset the cooldown on Franking Strike.",
+                "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/Season-of-Discovery-Hunter-Rune-Flanking-Strike.jpg"
+            },
+            {
+                "name": "Kill Command",
+                "desc": "Give the command to kill, increasing your pet’s damage done from special attacks by 60% for 30 sec. Each special attack done by the pet reduces the damage bonus by 20%.",
+                "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/Season-of-Discovery-Hunter-Rune-Kill-Command.jpg"
+            },
+            {
+                "name": "Serpent Spread",
+                "desc": "Targets hit by your Multi-Shot are also afflicted by your Serpent Sting for 6 sec.",
+                "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/Season-of-Discovery-Hunter-Rune-Serpent-Spread.jpg"
+            },
+            {
+                "name": "Sniper Training",
+                "desc": "Your Shot abilities gain 30% increased critical strike chance while you have not moved for the last 6 sec.",
+                "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/Season-of-Discovery-Hunter-Rune-Sniper-Training.jpg"
+            }
+        ]
     }
 }
