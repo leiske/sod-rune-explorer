@@ -34,8 +34,6 @@ function App() {
 
   function setSelectedClass(className) {
     const newClassName = isValidClass(className) ? className : defaultClassName;
-        console.log({newClassName});
-
     if (newClassName === selectedClassName) {
       // already on this one, don't redirect
       return;
