@@ -10,16 +10,20 @@ function App() {
       druid,
   ];
 
+  const defaultClassName = hunter.name;
+
   const params = new URLSearchParams(window.location.search);
   const selectedClassName = params.get("curr");
 
-  function setSelectedClass(className) {
-    let newClassName = className;
-    if (!className || !classes.map(({ name }) => name).includes(className)) {
-      newClassName = 'hunter';
-    }
+  function isValidClass(className) {
+    return className && classes.map(({ name }) => name).includes(className);
+  }
 
-    if (className === selectedClassName) {
+  function setSelectedClass(className) {
+    const newClassName = isValidClass(className) ? className : defaultClassName;
+        console.log({newClassName});
+
+    if (newClassName === selectedClassName) {
       // already on this one, don't redirect
       return;
     }
@@ -32,8 +36,9 @@ function App() {
     window.location.assign(url.href);
   }
 
-  // just validate and it won't redirect if it's a good class name
-  setSelectedClass(selectedClassName);
+  if(!isValidClass(selectedClassName)) {
+    setSelectedClass(defaultClassName);
+  }
 
   const selectedClass = classes.find(({ name }) => name === selectedClassName);
   return (
