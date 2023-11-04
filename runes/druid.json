@@ -1,0 +1,86 @@
+{
+    "druid": {
+        "name": "druid",
+        "iconSrc": "https://wow.zamimg.com/images/wow/icons/large/classicon_druid.jpg",
+        "runes": {
+            "chest": [
+                {
+                    "name": "Fury of Stormage",
+                    "desc": "Reduces the mana cost of Wrath by 100% and each time you deal damage with Wrath you have a 12% chance for your next cast of Healing Touch within 15 sec to be instant.",
+                    "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/Fury-of-Stormrage-icon.webp"
+                },
+                {
+                    "name": "Wild Strikes",
+                    "desc": "While you are in Cat Form, Bear Form, or Dire Bear Form, party members within 20 yards gain increased combat ferocity. Each melee hit has a 20% chance of granting the attacker an extra attack with 20% additional Attack power. No effect if the party member is already benefitting from Windfury Totem.",
+                    "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/swipe-icon.webp"
+                },
+                {
+                    "name": "Survival of the Fittest",
+                    "desc": "Reduces the chance you’ll be critically hit by melee attacks by 6% and reduces all damage taken by 10%. Damage taken reduced by an additional 10% while in Bear Form or Dire Bear Form.",
+                    "icon": "https://www.warcrafttavern.com/wp-content/uploads/2020/12/WoW-Classic-Enrage-Icon.jpg"
+                },
+                {
+                    "name": "Living Seed",
+                    "desc": "When you critically heal your target with any healing spell you plant a Living Seed on the target for 30% of the amount healed. The Living Seed will bloom when the target is next attacked. Lasts 15 sec.",
+                    "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/Living-Seed-Icon.jpg"
+                }
+            ],
+            "glove": [
+                {
+                    "name": "Wild Growth",
+                    "desc": "Heals up all friendly party members within 15 yards of the target for 156 over 7 sec. The amount healed is applied quickly at first, and slows down as Wild Growth reaches its full duration.",
+                    "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/wild-growth-icon.jpg"
+                },
+                {
+                    "name": "Mangle",
+                    "desc": "Mangle the target for 160% normal damage and cause the target to take 30% additional damage from Bleed effects and Shred for 1 min. This ability benefits from and triggers all effects associated with Claw and Maul.",
+                    "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/mangle-icon.jpg"
+                },
+                {
+                    "name": "Lacerate",
+                    "desc": "Lacerates the enemy target, making them bleed for 42 damage over 15 sec plus 20% weapon damage per existing application of Lacerate on the target. Causes a high amount of threat. This effect stacks up to 5 times on the same target.",
+                    "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/lacerate-icon.jpg"
+                },
+                {
+                    "name": "Sunfire",
+                    "desc": "Burns the enemy for 55 to 65 Nature damage and then an additional 110 Nature damage over 12 sec.",
+                    "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/Sunfire-Icon.jpg",
+                    "bullets": [
+                        "In addition, while in Bear Form, Cat Form, or Dire Bear Form, your Moonfire is replaced with Sunfire (Bear) or Sunfire (Cat). This spell benefits from and triggers all effects associated with Moonfire.",
+                        "Sunfire (Bear) Burns the enemy for 55 to 65 Nature damage and then an additional 110 Nature damage over 12 sec.",
+                        "Sunfire (Cat) Burns the enemy for 55 to 65 Nature damage and then an additional 110 Nature damage over 12 sec. Awards 1 combo point."
+                    ]
+                }
+            ],
+            "leg": [
+                {
+                    "name": "Skull Bash",
+                    "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/skull-bash-icon.jpg",
+                    "desc": "Charge to a target within 13 yards and bash the target’s skull, interrupting spellcasting and preventing any spell in that school from being cast 2 sec."
+                },
+                {
+                    "name": "Lifebloom",
+                    "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/Lifebloom-icon.jpg",
+                    "desc": "Heals the target for 45 over 7 sec. When Lifebloom completes its duration or is dispelled, the target instantly heals for 91 and the Druid regains half the cost of the spell. This effect can stack up to 3 times on the same target."
+                },
+                {
+                    "name": "Savage Roar",
+                    "desc": "Finishing move that increases physical damage done by 30% while in Cat Form. Lasts longer per combo point:",
+                    "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/savage-roar-icon.jpg",
+                    "comboPoints": [
+                        "14 seconds",
+                        "19 seconds",
+                        "24 seconds",
+                        "29 seconds",
+                        "34 seconds"
+                    ]
+                },
+                {
+                    "name": "Starsurge",
+                    "desc": "Launch surging stellar energies that causes 57 to 70 Arcane damage. Starsurge benefits from and triggers most talents and effects that trigger or benefit from Wrath or Starfire.",
+                    "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/starsurge-icon.jpg"
+                }
+            ]
+        }
+    }
+}

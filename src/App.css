@@ -12,3 +12,19 @@ h1 {
     flex-direction: column;
     gap: 1rem;
 }
+
+.class-nav-container {
+    background-color: #383838;
+    padding: 8px;
+    display: flex;
+
+}
+
+.class-icon {
+    border-radius: 8px;
+    max-width: 64px;
+}
+
+.class-icon-selected {
+    border: 8px solid yellow;
+}

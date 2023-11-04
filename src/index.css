@@ -37,7 +37,7 @@ body {
     gap: .5rem;
 }
 
-.tooltip-desc {
+.tooltip-bullet, .tooltip-desc {
     color: #ffc415;
 }
 
@@ -47,4 +47,5 @@ body {
 
 .tooltip-icon {
     max-width: 48px;
+    border-radius: 4px;
 }
