@@ -1,6 +1,5 @@
 import React from 'react';
 import Markdown from 'react-markdown';
-import './tooltip.css';
 
 export function Tooltip({ rune }) {
     const { name, desc, icon, bullets, } = rune;
