@@ -7,8 +7,10 @@ export function Tooltip({ rune }) {
 
     return (
         <div className="tooltip">
-            <h3 className="tooltip-name">{ name }</h3>
-            <img alt={name} width="56" height="56" className="tooltip-icon" src={icon}/>
+            <div className="icon-title-container">
+                <img alt={name} width="56" height="56" className="tooltip-icon" src={icon}/>
+                <h3 className="tooltip-name">{ name }</h3>
+            </div>
             <Markdown className="tooltip-desc">{ desc }</Markdown>
             <ComboPoints rune={rune} />
             {bullets && bullets.map(bullet => <Markdown className="tooltip-bullet" key={bullet}>{bullet}</Markdown>)}
