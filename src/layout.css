@@ -14,6 +14,11 @@ h1 {
     margin-bottom: 1rem;
 }
 
+html {
+  overflow-x: hidden;
+  margin-right: calc(-1 * (100vw - 100%));
+}
+
 .rune-category {
     display: flex;
     flex-direction: column;
