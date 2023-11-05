@@ -10,7 +10,7 @@
                     "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/regeneration-icon.jpg",
                     "secondarySpells":[
                         {
-                            "desc": "Records the subject’s space-time position. 100% of all Arcane damage done by the caster will be converted to chronomantic healing and divided among the caster’s current Temporal Beacon targets.",
+                            "desc": "Records the subject's space-time position. 100% of all Arcane damage done by the caster will be converted to chronomantic healing and divided among the caster's current Temporal Beacon targets.",
                             "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/Temporal-Beacon-Icon.jpg"
                         }
                     ]
@@ -61,11 +61,11 @@
                 },
                 {
                     "name": "Mass Regeneration",
-                    "desc": "Heals all of target player’s party members within 15 yards of target player for 262 health over 3 sec and applies Temporal Beacon to each target for 15 sec.",
+                    "desc": "Heals all of target player's party members within 15 yards of target player for 262 health over 3 sec and applies Temporal Beacon to each target for 15 sec.",
                     "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/regeneration2-icon.jpg",
                     "secondarySpells":[
                         {
-                            "desc": "Records the subject’s space-time position. 100% of all Arcane damage done by the caster will be converted to chronomantic healing and divided among the caster’s current Temporal Beacon targets.",
+                            "desc": "Records the subject's space-time position. 100% of all Arcane damage done by the caster will be converted to chronomantic healing and divided among the caster's current Temporal Beacon targets.",
                             "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/Temporal-Beacon-Icon.jpg"
                         }
                     ]

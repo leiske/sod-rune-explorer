@@ -16,7 +16,7 @@
                 },
                 {
                     "name": "Survival of the Fittest",
-                    "desc": "Reduces the chance you’ll be critically hit by melee attacks by 6% and reduces all damage taken by 10%. Damage taken reduced by an additional 10% while in Bear Form or Dire Bear Form.",
+                    "desc": "Reduces the chance you'll be critically hit by melee attacks by 6% and reduces all damage taken by 10%. Damage taken reduced by an additional 10% while in Bear Form or Dire Bear Form.",
                     "icon": "https://www.warcrafttavern.com/wp-content/uploads/2020/12/WoW-Classic-Enrage-Icon.jpg"
                 },
                 {
@@ -56,7 +56,7 @@
                 {
                     "name": "Skull Bash",
                     "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/skull-bash-icon.jpg",
-                    "desc": "Charge to a target within 13 yards and bash the target’s skull, interrupting spellcasting and preventing any spell in that school from being cast 2 sec."
+                    "desc": "Charge to a target within 13 yards and bash the target's skull, interrupting spellcasting and preventing any spell in that school from being cast 2 sec."
                 },
                 {
                     "name": "Lifebloom",

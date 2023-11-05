@@ -96,12 +96,12 @@
                 },
                 {
                     "name": "Demonic Grace",
-                    "desc": "Surge with fel energy, increasing your pet’s and your own dodge chance by 30%, and your chance to critically strike with all attacks by 30%. Lasts 6 sec.",
+                    "desc": "Surge with fel energy, increasing your pet's and your own dodge chance by 30%, and your chance to critically strike with all attacks by 30%. Lasts 6 sec.",
                     "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/demonic-grace-icon.webp"
                 },
                 {
                     "name": "Demonic Pact",
-                    "desc": "Your pet’s critical strikes apply the Demonic Pact effect to your party members for 45 sec. Demonic Pact increases spell damage and healing by 10% of your spell damage or 13, whichever is higher. Does not work on Subjugated demons.",
+                    "desc": "Your pet's critical strikes apply the Demonic Pact effect to your party members for 45 sec. Demonic Pact increases spell damage and healing by 10% of your spell damage or 13, whichever is higher. Does not work on Subjugated demons.",
                     "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/demonic-pact-icon.jpg"
                 }
             ]

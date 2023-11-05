@@ -11,7 +11,7 @@
                 },
                 {
                     "name": "Healing Rain",
-                    "desc": "Selects the area 15 yards around target player, and heals all target player’s part members within that area for 20 every second.",
+                    "desc": "Selects the area 15 yards around target player, and heals all target player's part members within that area for 20 every second.",
                     "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/healing-rain-icon.jpg"
                 },
                 {
@@ -21,7 +21,7 @@
                 },
                 {
                     "name": "Shield Mastery",
-                    "desc": "Each time you Block, you regenerate mana equal to 4% of your maximum mana and you gain Armor equal to 30% of your shield’s armor value, stacking up to 5 times. You also always gain 10% increased chance to Block and 15% increased Block value.",
+                    "desc": "Each time you Block, you regenerate mana equal to 4% of your maximum mana and you gain Armor equal to 30% of your shield's armor value, stacking up to 5 times. You also always gain 10% increased chance to Block and 15% increased Block value.",
                     "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/shield-mastery.jpg"
                 }
             ],
@@ -65,7 +65,7 @@
                 },
                 {
                     "name": "Way of Earth",
-                    "desc": "While Rockbiter Weapon is active on your main hand weapon, you deal 100% increased threat, gain 30% increased health, take 10% reduced damage, gain 6% reduced change to be critically hit by melee attacks, and Earth Shock taunts targets to attack you and has a separate cooldown from the other Shock spells but has it’s Range reduced to melee range.",
+                    "desc": "While Rockbiter Weapon is active on your main hand weapon, you deal 100% increased threat, gain 30% increased health, take 10% reduced damage, gain 6% reduced change to be critically hit by melee attacks, and Earth Shock taunts targets to attack you and has a separate cooldown from the other Shock spells but has it's Range reduced to melee range.",
                     "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/way-of-earth-icon.jpg"
                 }
             ]
