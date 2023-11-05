@@ -11,24 +11,24 @@
                 },
                 {
                     "name": "Flagellation",
-                    "desc": "Gain a 25% bonus to Physical damage done for 12 sec after activating Bloodrage or Berserker Rage.",
+                    "desc": "Gain a 25% bonus to Physical damage done for 12 sec after activating [Bloodrage](https://www.wowhead.com/classic/spell=2687/bloodrage) or [Berserker Rage](https://www.wowhead.com/classic/spell=18499/berserker-rage).",
                     "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/Season-of-Discovery-Warrior-Rune-Flagellation.jpg"
                 },
                 {
                     "name": "Raging Blow",
-                    "desc": "A ferocious strike that deals 100% weapon damage, but can only be used while Enrage, Berserker Rage, or Bloodrage is active.",
+                    "desc": "A ferocious strike that deals 100% weapon damage, but can only be used while [Enrage](https://www.wowhead.com/classic/spell=12317/enrage), [Berserker Rage](https://www.wowhead.com/classic/spell=18499/berserker-rage), or [Bloodrage](https://www.wowhead.com/classic/spell=2687/bloodrage) is active.",
                     "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/Season-of-Discovery-Warrior-Rune-Raging-Blow.jpg"
                 },
                 {
                     "name": "Warbringer",
-                    "desc": "Your Charge, Intercept, and Intervene abilities are now usable while in combat and in any stance, and will all remove movement impairing effects when activated.",
+                    "desc": "Your [Charge](https://www.wowhead.com/classic/spell=100/charge), [Intercept](https://www.wowhead.com/classic/spell=20252/intercept), and Intervene abilities are now usable while in combat and in any stance, and will all remove movement impairing effects when activated.",
                     "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/Season-of-Discovery-Warrior-Rune-Warbringer.jpg"
                 }
             ],
             "glove": [
                 {
                     "name": "Devastate",
-                    "desc": "While you are in Defensive Stance and have a shield equipped, Sunder Armor also deals 100% weapons damage, increased by 10% per application of Sunder Armor already on the target.",
+                    "desc": "While you are in [Defensive Stance](https://www.wowhead.com/classic/spell=71/defensive-stance) and have a shield equipped, [Sunder Armor](https://www.wowhead.com/classic/spell=7405/sunder-armor) also deals 100% weapons damage, increased by 10% per application of [Sunder Armor](https://www.wowhead.com/classic/spell=7405/sunder-armor) already on the target.",
                     "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/Season-of-Discovery-Warrior-Rune-Devastate.jpg"
                 },
                 {
@@ -48,7 +48,7 @@
                 },
                 {
                     "name": "Quick Strike",
-                    "desc": "A reckless instant melee attack with your two-handed weapon dealing 51-84 physical damage. This ability benefits from and triggers all effects associated with Herioc Strike.",
+                    "desc": "A reckless instant melee attack with your two-handed weapon dealing 51-84 physical damage. This ability benefits from and triggers all effects associated with [Herioc Strike](https://www.wowhead.com/classic/spell=78/heroic-strike).",
                     "icon": "https://wow.zamimg.com/images/wow/icons/large/inv_axe_03.jpg"
                 }
             ],
@@ -65,7 +65,7 @@
                 },
                 {
                     "name": "Furious Thunder",
-                    "desc": "Thunder Clap now increases the time between attacks by an additional 6% and can be used in any stance.",
+                    "desc": "[Thunder Clap](https://www.wowhead.com/classic/spell=6343/thunder-clap) now increases the time between attacks by an additional 6% and can be used in any stance.",
                     "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/Season-of-Discovery-Warrior-Rune-Furious-Thunder.jpg"
                 }
             ]

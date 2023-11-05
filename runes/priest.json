@@ -6,12 +6,12 @@
             "chest": [
                 {
                     "name": "Strength of Soul",
-                    "desc": "Lesser Heal, Heal, Greater Heal, and Flash Heal reduce the remaining duration of Weakened Soul on targets they heal by 4 sec.",
+                    "desc": "[Lesser Heal](https://www.wowhead.com/classic/spell=2053/lesser-heal), [Heal](https://www.wowhead.com/classic/spell=2054/heal), [Greater Heal](https://www.wowhead.com/classic/spell=2060/greater-heal), and [Flash Heal](https://www.wowhead.com/spell=2061/flash-heal) reduce the remaining duration of [Weakened Soul](https://www.wowhead.com/classic/spell=6788/weakened-soul) on targets they heal by 4 sec.",
                     "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/Strength-of-Soul.jpg"
                 },
                 {
                     "name": "Serendipity",
-                    "desc": "Healing with Flash Heal reduces the cast time of your next Lesser Heal, Heal, Greater Heal, or Prayer of Healing by 20% for 20 sec, stacking up to 3 times.",
+                    "desc": "Healing with [Flash Heal](https://www.wowhead.com/spell=2061/flash-heal) reduces the cast time of your next [Lesser Heal](https://www.wowhead.com/classic/spell=2053/lesser-heal), [Heal](https://www.wowhead.com/classic/spell=2054/heal), [Greater Heal](https://www.wowhead.com/classic/spell=2060/greater-heal), or [Prayer of Healing](https://www.wowhead.com/classic/spell=596/prayer-of-healing) by 20% for 20 sec, stacking up to 3 times.",
                     "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/serendipity.jpg"
                 },
                 {
@@ -21,7 +21,7 @@
                 },
                 {
                     "name": "Twisted Faith",
-                    "desc": "Mind Flay and Mind Blast deal 20% increased damage to targets afflicted with your Shadow Word: Pain.",
+                    "desc": "[Mind Flay](https://www.wowhead.com/classic/spell=15407/mind-flay) and [Mind Blast](https://www.wowhead.com/classic/spell=8092/mind-blast) deal 20% increased damage to targets afflicted with your [Shadow Word: Pain](https://www.wowhead.com/classic/spell=589/shadow-word-pain).",
                     "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/Twisted-Faith.jpg"
                 }
             ],
@@ -60,7 +60,7 @@
                 },
                 {
                     "name": "Shared Pain",
-                    "desc": "Your Shadow Word: Pain now also afflicts up to 2 additional nearby targets within 15 yards.",
+                    "desc": "Your [Shadow Word: Pain](https://www.wowhead.com/classic/spell=589/shadow-word-pain) now also afflicts up to 2 additional nearby targets within 15 yards.",
                     "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/shared-pain-icon.jpg"
                 },
                 {

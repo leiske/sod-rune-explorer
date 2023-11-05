@@ -6,17 +6,17 @@
             "chest": [
                 {
                     "name": "Fury of Stormage",
-                    "desc": "Reduces the mana cost of Wrath by 100% and each time you deal damage with Wrath you have a 12% chance for your next cast of Healing Touch within 15 sec to be instant.",
+                    "desc": "Reduces the mana cost of [Wrath](https://www.wowhead.com/classic/spell=5176/wrath) by 100% and each time you deal damage with [Wrath](https://www.wowhead.com/classic/spell=5176/wrath) you have a 12% chance for your next cast of [Healing Touch](https://www.wowhead.com/classic/spell=5188/healing-touch) within 15 sec to be instant.",
                     "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/Fury-of-Stormrage-icon.webp"
                 },
                 {
                     "name": "Wild Strikes",
-                    "desc": "While you are in Cat Form, Bear Form, or Dire Bear Form, party members within 20 yards gain increased combat ferocity. Each melee hit has a 20% chance of granting the attacker an extra attack with 20% additional Attack power. No effect if the party member is already benefitting from Windfury Totem.",
+                    "desc": "While you are in [Cat Form](https://www.wowhead.com/classic/spell=768/cat-form), [Bear Form](https://www.wowhead.com/classic/spell=5487/bear-form), or [Dire Bear Form](https://www.wowhead.com/classic/spell=9634/dire-bear-form), party members within 20 yards gain increased combat ferocity. Each melee hit has a 20% chance of granting the attacker an extra attack with 20% additional Attack power. No effect if the party member is already benefitting from [Windfury Totem](https://www.wowhead.com/classic/spell=8512/windfury-totem).",
                     "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/swipe-icon.webp"
                 },
                 {
                     "name": "Survival of the Fittest",
-                    "desc": "Reduces the chance you'll be critically hit by melee attacks by 6% and reduces all damage taken by 10%. Damage taken reduced by an additional 10% while in Bear Form or Dire Bear Form.",
+                    "desc": "Reduces the chance you'll be critically hit by melee attacks by 6% and reduces all damage taken by 10%. Damage taken reduced by an additional 10% while in [Bear Form](https://www.wowhead.com/classic/spell=5487/bear-form) or [Dire Bear Form](https://www.wowhead.com/classic/spell=9634/dire-bear-form).",
                     "icon": "https://www.warcrafttavern.com/wp-content/uploads/2020/12/WoW-Classic-Enrage-Icon.jpg"
                 },
                 {
@@ -33,7 +33,7 @@
                 },
                 {
                     "name": "Mangle",
-                    "desc": "Mangle the target for 160% normal damage and cause the target to take 30% additional damage from Bleed effects and Shred for 1 min. This ability benefits from and triggers all effects associated with Claw and Maul.",
+                    "desc": "Mangle the target for 160% normal damage and cause the target to take 30% additional damage from Bleed effects and [Shred](https://www.wowhead.com/classic/spell=5221/shred) for 1 min. This ability benefits from and triggers all effects associated with [Claw](https://www.wowhead.com/classic/spell=1082/claw) and [Maul](https://www.wowhead.com/classic/spell=6807/maul).",
                     "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/mangle-icon.jpg"
                 },
                 {
@@ -46,7 +46,7 @@
                     "desc": "Burns the enemy for 55 to 65 Nature damage and then an additional 110 Nature damage over 12 sec.",
                     "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/Sunfire-Icon.jpg",
                     "bullets": [
-                        "In addition, while in Bear Form, Cat Form, or Dire Bear Form, your Moonfire is replaced with Sunfire (Bear) or Sunfire (Cat). This spell benefits from and triggers all effects associated with Moonfire.",
+                        "In addition, while in [Bear Form](https://www.wowhead.com/classic/spell=5487/bear-form), [Cat Form](https://www.wowhead.com/classic/spell=768/cat-form), or [Dire Bear Form](https://www.wowhead.com/classic/spell=9634/dire-bear-form), your [Moonfire](https://www.wowhead.com/classic/spell=8921/moonfire) is replaced with Sunfire (Bear) or Sunfire (Cat). This spell benefits from and triggers all effects associated with Moonfire.",
                         "Sunfire (Bear) Burns the enemy for 55 to 65 Nature damage and then an additional 110 Nature damage over 12 sec.",
                         "Sunfire (Cat) Burns the enemy for 55 to 65 Nature damage and then an additional 110 Nature damage over 12 sec. Awards 1 combo point."
                     ]
@@ -65,7 +65,7 @@
                 },
                 {
                     "name": "Savage Roar",
-                    "desc": "Finishing move that increases physical damage done by 30% while in Cat Form. Lasts longer per combo point:",
+                    "desc": "Finishing move that increases physical damage done by 30% while in [Cat Form](https://www.wowhead.com/classic/spell=768/cat-form). Lasts longer per combo point:",
                     "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/savage-roar-icon.jpg",
                     "comboPoints": [
                         "14 seconds",
@@ -77,7 +77,7 @@
                 },
                 {
                     "name": "Starsurge",
-                    "desc": "Launch surging stellar energies that causes 57 to 70 Arcane damage. Starsurge benefits from and triggers most talents and effects that trigger or benefit from Wrath or Starfire.",
+                    "desc": "Launch surging stellar energies that causes 57 to 70 Arcane damage. Starsurge benefits from and triggers most talents and effects that trigger or benefit from [Wrath](https://www.wowhead.com/classic/spell=5176/wrath) or [Starfire](https://www.wowhead.com/classic/spell=2912/starfire).",
                     "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/starsurge-icon.jpg"
                 }
             ]

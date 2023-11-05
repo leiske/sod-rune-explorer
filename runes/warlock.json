@@ -21,14 +21,14 @@
                     "desc": "Gain the Master Channeler ability:",
                     "secondarySpells": [
                         {
-                            "desc": "Your Drain life is no longer channeled, lasts 15 sec with a 15 sec cooldown, costs 100% more mana, and heals you for 50% more each time it deals damage.",
+                            "desc": "Your [Drain life](https://www.wowhead.com/classic/spell=689/drain-life) is no longer channeled, lasts 15 sec with a 15 sec cooldown, costs 100% more mana, and heals you for 50% more each time it deals damage.",
                             "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/master-channeler.jpg"
                         }
                     ]
                 },
                 {
                     "name": "Soul Siphon",
-                    "desc": "Increases the amount drained by your Drain Life and Drain Soul spells by an additional 6% for each of your Warlock Shadow effects afflicting the target, up to a maximum of 18% additional effect.",
+                    "desc": "Increases the amount drained by your [Drain Life](https://www.wowhead.com/classic/spell=689/drain-life) and [Drain Soul](https://www.wowhead.com/classic/spell=1120/drain-soul) spells by an additional 6% for each of your Warlock Shadow effects afflicting the target, up to a maximum of 18% additional effect.",
                     "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/drain-life.jpg"
                 },
                 {
@@ -43,9 +43,9 @@
                     "desc": "Transform into a Demon, increasing Armor by 500%, reducing the chance you will be critically hit by 6%, increasing your threat by 100%, increasing mana gained from Life Tap by 100%, transforming the functionality of some of your abilities, and granting some new abilities:",
                     "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/meta-icon.jpg",
                     "bullets": [
-                        "Searing Pain: Now instant.",
-                        "Shadow Bolt: Becomes Shadow Cleave, a Shadow melee attack that hits up to 3 nearby enemies, but has a 6 sec cooldown.",
-                        "Curse of Recklessness: Now also taunts your target to attack you for 3 sec, but gains a 10 sec cooldown and range is reduced to melee."
+                        "[Searing Pain](https://www.wowhead.com/classic/spell=17923/searing-pain): Now instant.",
+                        "[Shadow Bolt](https://www.wowhead.com/classic/spell=1088/shadow-bolt): Becomes Shadow Cleave, a Shadow melee attack that hits up to 3 nearby enemies, but has a 6 sec cooldown.",
+                        "[Curse of Recklessness](https://www.wowhead.com/classic/spell=11717/curse-of-recklessness): Now also taunts your target to attack you for 3 sec, but gains a 10 sec cooldown and range is reduced to melee."
                     ],
                     "secondarySpells": [
                         {
@@ -67,7 +67,7 @@
 
                     "secondarySpells": [
                         {
-                            "desc": "Your Shadow Bolt now strikes up to 5 targets within a chain distance of 10 yards, but for 20 reduced damage.",
+                            "desc": "Your [Shadow Bolt](https://www.wowhead.com/classic/spell=1088/shadow-bolt) now strikes up to 5 targets within a chain distance of 10 yards, but for 20 reduced damage.",
                             "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/shadow-bolt-volley.jpg"
                         }
                     ]
@@ -86,7 +86,7 @@
             "leg": [
                 {
                     "name": "Everlasting Affliction",
-                    "desc": "Drain Life, Drain Soul, Shadowbolt, Shadow Cleave, Searing Pain, Incinerate, and Haunt refresh the duration of your corruption on the target back to its maximum duration.",
+                    "desc": "[Drain Life](https://www.wowhead.com/classic/spell=689/drain-life), [Drain Soul](https://www.wowhead.com/classic/spell=1120/drain-soul), [Shadow Bolt](https://www.wowhead.com/classic/spell=1088/shadow-bolt), Shadow Cleave, [Searing Pain](https://www.wowhead.com/classic/spell=17923/searing-pain), Incinerate, and Haunt refresh the duration of your corruption on the target back to its maximum duration.",
                     "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/everlasting-affliction.jpg"
                 },
                 {
@@ -101,7 +101,7 @@
                 },
                 {
                     "name": "Demonic Pact",
-                    "desc": "Your pet's critical strikes apply the Demonic Pact effect to your party members for 45 sec. Demonic Pact increases spell damage and healing by 10% of your spell damage or 13, whichever is higher. Does not work on Subjugated demons.",
+                    "desc": "Your pet's critical strikes apply the Demonic Pact effect to your party members for 45 sec. Demonic Pact increases spell damage and healing by 10% of your spell damage or 13, whichever is higher. Does not work on [Subjugated](https://www.wowhead.com/classic/spell=1098/subjugate-demon) demons.",
                     "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/demonic-pact-icon.jpg"
                 }
             ]

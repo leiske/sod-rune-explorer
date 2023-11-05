@@ -16,12 +16,12 @@
                 },
                 {
                     "name": "Horn of Lordaeron",
-                    "desc": "The Paladin blows the Horn of Lordaeron, which increases total Strength and Agility of all party members within 30 yards by 17. Lasts 2 min. Exclusive with Blessing of Might.",
+                    "desc": "The Paladin blows the Horn of Lordaeron, which increases total Strength and Agility of all party members within 30 yards by 17. Lasts 2 min. Exclusive with [Blessing of Might](https://www.wowhead.com/classic/spell=19835/blessing-of-might).",
                     "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/inv_misc_horn_03.jpg"
                 },
                 {
                     "name": "Aegis",
-                    "desc": "Increases your block value by 30% and damaging melee and ranged attacks against you have a 10% chance to increase your chance to block by 30%. Lasts 10 sec or 5 blocks. Effect not cumulative with Redoubt.",
+                    "desc": "Increases your block value by 30% and damaging melee and ranged attacks against you have a 10% chance to increase your chance to block by 30%. Lasts 10 sec or 5 blocks. Effect not cumulative with [Redoubt](https://www.wowhead.com/classic/spell=20137/redoubt).",
                     "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/aegis-icon.jpg"
                 }
             ],
@@ -33,7 +33,7 @@
                 },
                 {
                     "name": "Inspiration Exemplar",
-                    "desc": "Your inspiring presence periodically dispels Fear and Sleep effects on nearby party members.",
+                    "desc": "Your inspiring presence periodically dispels [Fear](https://www.wowhead.com/classic/spell=5782/fear) and [Sleep](https://www.wowhead.com/classic/spell=700/sleep) effects on nearby party members.",
                     "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/holy-power-icon.jpg"
                 },
                 {
@@ -43,7 +43,7 @@
                 },
                 {
                     "name": "Exorcist",
-                    "desc": "Exorcism can now be cast on any target and has 100% increased critical strike chance against Undead and Demons.",
+                    "desc": "[Exorcism](https://www.wowhead.com/classic/spell=879/exorcism) can now be cast on any target and has 100% increased critical strike chance against Undead and Demons.",
                     "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/holy-wrath-icon.jpg"
                 },
                 {
@@ -68,7 +68,7 @@
                     "desc": "Taunts the target to attack you, but has no effect if the target is already attacking you.",
                     "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/HoR-icon.jpg",
                     "bullets": [
-                        "While you know this ability, the threat bonus from Righteous Fury is increased to 80% and Righteous Fury causes you gain mana when healed by others equal to 25% of the amount healed. Additionally, while Righteous Fury is active, damage which takes you below 35% health is reduced by 20%. Righteous Fury will remain active until cancelled."
+                        "While you know this ability, the threat bonus from [Righteous Fury](https://www.wowhead.com/classic/spell=25780/righteous-fury) is increased to 80% and [Righteous Fury](https://www.wowhead.com/classic/spell=25780/righteous-fury) causes you gain mana when healed by others equal to 25% of the amount healed. Additionally, while [Righteous Fury](https://www.wowhead.com/classic/spell=25780/righteous-fury) is active, damage which takes you below 35% health is reduced by 20%. Righteous Fury will remain active until cancelled."
                     ]
                 }
             ]

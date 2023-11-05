@@ -6,7 +6,7 @@
             "chest": [
                 {
                     "name": "Dual Wield Specialization",
-                    "desc": "Increases your chance to hit with both spells and melee attacks by 5% while dual wielding and your Stormstrike ability now hits with both weapons while dual wielding.",
+                    "desc": "Increases your chance to hit with both spells and melee attacks by 5% while dual wielding and your [Stormstrike](https://www.wowhead.com/classic/spell=17364/stormstrike) ability now hits with both weapons while dual wielding.",
                     "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/dual-wield-icon.jpg"
                 },
                 {
@@ -16,7 +16,7 @@
                 },
                 {
                     "name": "Overload",
-                    "desc": "Gives your Lightning Bolt, Chain Lightuing, Chain Heal, Healing Wave, and Lava Burst spells a 33% chance to cast a second, similar spell on the same target at no additional cost that causes half damage or healing and no threat.",
+                    "desc": "Gives your [Lightning Bolt](https://www.wowhead.com/classic/spell=403/lightning-bolt), [Chain Lightuing](https://www.wowhead.com/classic/spell=421/chain-lightning), [Chain Heal](https://www.wowhead.com/classic/spell=1064/chain-heal), [Healing Wave](https://www.wowhead.com/classic/spell=331/healing-wave), and [Lava Burst](https://www.wowhead.com/classic/spell=21158/lava-burst) spells a 33% chance to cast a second, similar spell on the same target at no additional cost that causes half damage or healing and no threat.",
                     "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/overload-icon.jpg"
                 },
                 {
@@ -28,17 +28,17 @@
             "glove": [
                 {
                     "name": "Lava Burst",
-                    "desc": "You hurl molten lava at the target, dealing 198 to 256 Fire damage. If your Flame Shock is on the target, Lava Burst will deal a critical strike.",
+                    "desc": "You hurl molten lava at the target, dealing 198 to 256 Fire damage. If your [Flame Shock](https://www.wowhead.com/classic/spell=8052/flame-shock) is on the target, Lava Burst will deal a critical strike.",
                     "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/lava-burst-icon.jpg"
                 },
                 {
                     "name": "Lava Lash",
-                    "desc": "You charge your off-hand weapons with lava, instantly dealing 100% off-hand Weapon damage. Damage is increased by 20% if your off-hand weapon is enchanted with Flametongue.",
+                    "desc": "You charge your off-hand weapons with lava, instantly dealing 100% off-hand Weapon damage. Damage is increased by 20% if your off-hand weapon is enchanted with [Flametongue](https://www.wowhead.com/classic/spell=8027/flametongue-weapon).",
                     "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/lava-lash-icon.jpg"
                 },
                 {
                     "name": "Molten Blast",
-                    "desc": "Blast enemies in a cone in front of you for 46 to 61 Fire damage. This ability generates a high amount of threat. Flame Shock periodic damage has a 10% chance to reset the cooldown on Molten Blast.",
+                    "desc": "Blast enemies in a cone in front of you for 46 to 61 Fire damage. This ability generates a high amount of threat. [Flame Shock](https://www.wowhead.com/classic/spell=8052/flame-shock) periodic damage has a 10% chance to reset the cooldown on Molten Blast.",
                     "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/molten-blast.jpg"
                 },
                 {
@@ -50,7 +50,7 @@
             "leg": [
                 {
                     "name": "Ancestral Guidance",
-                    "desc": "For the next 10 sec, 25% of your damage is converted to healing on up to 3 nearby party, and 100% of your healing is converted to damage on your most Flame Shock target.",
+                    "desc": "For the next 10 sec, 25% of your damage is converted to healing on up to 3 nearby party, and 100% of your healing is converted to damage on your most [Flame Shock](https://www.wowhead.com/classic/spell=8052/flame-shock) target.",
                     "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/ancestral-guidance-icon.jpg"
                 },
                 {
@@ -60,12 +60,12 @@
                 },
                 {
                     "name": "Shamanistic Rage",
-                    "desc": "Reduces all damage you take by 20% and you regenerate mana every second for 15 sec. Man regenerated per second is equal to 15% of your attack power, 10% of your spell power, or 6% of your healing power, whichever value is greatest.",
+                    "desc": "Reduces all damage you take by 20% and you regenerate mana every second for 15 sec. Mana regenerated per second is equal to 15% of your attack power, 10% of your spell power, or 6% of your healing power, whichever value is greatest.",
                     "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/shamanistic-rage-icon.jpg"
                 },
                 {
                     "name": "Way of Earth",
-                    "desc": "While Rockbiter Weapon is active on your main hand weapon, you deal 100% increased threat, gain 30% increased health, take 10% reduced damage, gain 6% reduced chance to be critically hit by melee attacks, and Earth Shock taunts targets to attack you and has a separate cooldown from the other Shock spells but has its Range reduced to melee range.",
+                    "desc": "While [Rockbiter Weapon](https://www.wowhead.com/classic/spell=8019/rockbiter-weapon) is active on your main hand weapon, you deal 100% increased threat, gain 30% increased health, take 10% reduced damage, gain 6% reduced chance to be critically hit by melee attacks, and [Earth Shock](https://www.wowhead.com/classic/spell=8046/earth-shock) taunts targets to attack you and has a separate cooldown from the other Shock spells but has its Range reduced to melee range.",
                     "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/way-of-earth-icon.jpg"
                 }
             ]
