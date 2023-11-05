@@ -7,7 +7,7 @@ import { warlock } from './runes/warlock.json';
 import { warrior } from './runes/warrior.json';
 import { paladin } from './runes/paladin.json';
 import { shaman } from './runes/shaman.json';
-import { createBrowserRouter, Navigate } from 'react-router-dom';
+import { createHashRouter, Navigate } from 'react-router-dom';
 
 import { ClassPage } from './classPage/ClassPage';
 import { Layout } from './Layout';
@@ -24,9 +24,9 @@ export const classes = [
   shaman,
 ];
 
-export const router =  createBrowserRouter([
+export const router =  createHashRouter([
     {
-        path: "/*",
+        path: "/",
         element: <Layout />,
         errorElement: <Navigate to="/hunter" replace={true} />,
         children: [
