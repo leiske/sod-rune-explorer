@@ -1,4 +1,5 @@
 import React from 'react';
+import Markdown from 'react-markdown';
 
 export function Tooltip({ rune }) {
     const { name, desc, icon, bullets, } = rune;
@@ -7,9 +8,9 @@ export function Tooltip({ rune }) {
         <div className="tooltip">
             <h3 className="tooltip-name">{ name }</h3>
             <img className="tooltip-icon" src={icon}/>
-            <p className="tooltip-desc">{ desc }</p>
+            <Markdown className="tooltip-desc">{ desc }</Markdown>
             <ComboPoints rune={rune} />
-            {bullets && bullets.map(bullet => <p className="tooltip-bullet" key={bullet}>{bullet}</p>)}
+            {bullets && bullets.map(bullet => <Markdown className="tooltip-bullet" key={bullet}>{bullet}</Markdown>)}
             <SecondarySkill rune={rune} />
         </div>
     );
@@ -28,7 +29,7 @@ export function SecondarySkill({ rune }) {
                 <div className="secondary-spell" key={desc + parentName}>
                     { name && <p className="tooltip-desc">{ name }</p> }
                     <img className="tooltip-icon" src={icon}/>
-                    <p className="tooltip-desc">{ desc }</p>
+                    <Markdown className="tooltip-desc">{ desc }</Markdown>
                 </div>
             ))}
         </div>

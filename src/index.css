@@ -38,6 +38,11 @@ body {
     gap: .5rem;
 }
 
+a {
+    color: #1eff09;
+    text-decoration: none;
+}
+
 .tooltip-bullet, .tooltip-desc, .tooltip-combo-point {
     color: #ffc415;
 }

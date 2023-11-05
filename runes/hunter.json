@@ -28,7 +28,7 @@
             "glove": [
                 {
                     "name": "Beast Mastery",
-                    "desc": "Your pet's damage and health are increased by 30%, and it's Focus regeneration by 80%. In addition, your pet's Growl now also Taunts the target to attack it for 3 sec.",
+                    "desc": "Your pet's damage and health are increased by 30%, and it's Focus regeneration by 80%. In addition, your pet's [Growl](https://www.wowhead.com/classic/spell=2649/growl) now also Taunts the target to attack it for 3 sec.",
                     "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/Season-of-Discovery-Hunter-Rune-Beast-Mastery.jpg"
                 },
                 {
@@ -41,21 +41,21 @@
                     "desc": "You deal 125% weapon damage, refreshing the current Sting on your target and triggering an effect:",
                     "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/Season-of-Discovery-Hunter-Rune-Chimera-Shot.jpg",
                     "bullets": [
-                        "Serpent Sting – Instantly deals 40% of the damage done by your Serpent Sting.",
-                        "Viper Sting – Instantly restores mana to you equal to 60% of the total amount drained by your Viper Sting.",
-                        "Scorpid Sting – Attempts to Disarm the target for 10 sec. This effect cannot occur more than once per 1 minute."
+                        "[Serpent Sting](https://www.wowhead.com/classic/spell=13550/serpent-sting) – Instantly deals 40% of the damage done by your Serpent Sting.",
+                        "[Viper Sting](https://www.wowhead.com/classic/spell=14280/viper-sting) – Instantly restores mana to you equal to 60% of the total amount drained by your Viper Sting.",
+                        "[Scorpid Sting](https://www.wowhead.com/classic/spell=3043/scorpid-sting) – Attempts to Disarm the target for 10 sec. This effect cannot occur more than once per 1 minute."
                     ]
                 },
                 {
                     "name": "Explosive Shot",
-                    "desc": "You fire an explosive charge into the enemy target, dealing 81-98 Fire damage. The charge will blast the target every second for an additional 2 sec. Cooldown shared with Arcane Shot.",
+                    "desc": "You fire an explosive charge into the enemy target, dealing 81-98 Fire damage. The charge will blast the target every second for an additional 2 sec. Cooldown shared with [Arcane Shot](https://www.wowhead.com/classic/spell=14285/arcane-shot).",
                     "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/Season-of-Discovery-Hunter-Rune-Explosive-Shot.jpg"
                 }
             ],
             "leg": [
                 {
                     "name": "Flanking Strike",
-                    "desc": "You and your pet deal simultaneous instant 100% melee damage. Afterward, your Mongoose Bite and Raptor Strike deal 10% increased damage for 10 sec, stacking up to 3 times. Raptor Strike has a 20% change to reset the cooldown on Franking Strike.",
+                    "desc": "You and your pet deal simultaneous instant 100% melee damage. Afterward, your [Mongoose Bite](https://www.wowhead.com/classic/spell=14271/mongoose-bite) and [Raptor Strike](https://www.wowhead.com/classic/spell=14266/raptor-strike) deal 10% increased damage for 10 sec, stacking up to 3 times. [Raptor Strike](https://www.wowhead.com/classic/spell=14266/raptor-strike) has a 20% change to reset the cooldown on Flanking Strike.",
                     "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/Season-of-Discovery-Hunter-Rune-Flanking-Strike.jpg"
                 },
                 {
@@ -65,7 +65,7 @@
                 },
                 {
                     "name": "Serpent Spread",
-                    "desc": "Targets hit by your Multi-Shot are also afflicted by your Serpent Sting for 6 sec.",
+                    "desc": "Targets hit by your [Multi-Shot](https://www.wowhead.com/classic/spell=2643/multi-shot) are also afflicted by your [Serpent Sting](https://www.wowhead.com/classic/spell=13550/serpent-sting) for 6 sec.",
                     "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/Season-of-Discovery-Hunter-Rune-Serpent-Spread.jpg"
                 },
                 {
