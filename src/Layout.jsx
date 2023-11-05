@@ -1,4 +1,4 @@
-import { Outlet, useLocation, useNavigate } from "react-router";
+import { Outlet, useLocation } from "react-router";
 import { ClassBar } from './classBar/ClassBar';
 import { classes } from './routes';
 import './layout.css';
@@ -6,7 +6,6 @@ import './layout.css';
 export function Layout() {
     const { pathname: classNameRaw } = useLocation();
     const className = classNameRaw.slice(1); // strip leading /
-
 
     const selectedClass = classes.find(c => c.name === className);
 

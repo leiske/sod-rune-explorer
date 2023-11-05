@@ -64,7 +64,6 @@
                     "name": "Shadow Bolt Volley",
                     "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/shadow-bolt-volley.jpg",
                     "desc": "Gain the Shadow Bolt Volley ability:",
-
                     "secondarySpells": [
                         {
                             "desc": "Your [Shadow Bolt](https://www.wowhead.com/classic/spell=1088/shadow-bolt) now strikes up to 5 targets within a chain distance of 10 yards, but for 20 reduced damage.",

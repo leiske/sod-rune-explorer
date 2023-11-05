@@ -2,64 +2,6 @@ body {
     margin: 0;
 }
 
-h1 {
-  color: #fff;
-}
-
-.rune-category-container {
-    display: flex;
-    gap: 1rem;
-    flex-wrap: wrap;
-    justify-content: center;
-    margin-bottom: 1rem;
-}
-
-.rune-category {
-    display: flex;
-    flex-direction: column;
-    gap: 1rem;
-}
-
-.class-nav-container {
-    background-color: #383838;
-    padding: 8px 0;
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    gap: 1rem;
-
-    width: 100%
-}
-
-.class-icon {
-    border-radius: 8px;
-    max-width: 56px;
-}
-
-.class-icon-container {
-    position: relative;
-    display: inline;
-}
-
-.class-icon-highlight {
-    position: absolute;
-    right: 0;
-    bottom: 6px;
-    max-width: 58px;
-    background: url("https://wow.zamimg.com/images/Icon/large/hilite/default.png") no-repeat 62px 0;
-    border-radius: 8px;
-    opacity: 0%;
-}
-
-.class-icon-highlight:hover, .class-icon-selected {
-  opacity: 100%;
-  transition: opacity .1s;
-}
-
-.class-title {
-    text-transform: capitalize;
-}
-
 .page-container {
     display: flex;
     flex-direction: column;

@@ -1,5 +1,6 @@
 import { Tooltip } from '../runeTooltip/tooltip';
 import { Skills } from '../skills/Skills';
+import './classpage.css';
 
 export function ClassPage({ sodClass }) {
   const { name, skills, runes } = sodClass;
