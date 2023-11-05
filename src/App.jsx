@@ -9,6 +9,7 @@ import { warrior } from '../runes/warrior.json';
 import { paladin } from '../runes/paladin.json';
 import { shaman } from '../runes/shaman.json';
 import { Tooltip } from './runeTooltip/tooltip';
+import { Skills } from './skills/Skills';
 
 function App() {
   const classes = [
@@ -47,12 +48,14 @@ function App() {
     window.location.assign(url.href);
   }
 
+
   if(!isValidClass(selectedClassName)) {
     setSelectedClass(defaultClassName);
   }
 
   const selectedClass = classes.find(({ name }) => name === selectedClassName);
   const selectedIcon = "https://wow.zamimg.com/images/wow/icons/large/spell_nature_wispsplode.jpg";
+    console.log(selectedClass);
 
   // <a href="https://www.wowhead.com/classic/spell=75/auto-shot">foo</a>
   return (
@@ -74,6 +77,13 @@ function App() {
                     </div>
                 )}
         </div>
+
+        { selectedClass.skills && (
+            <>
+                <h1 className="class-title">{selectedClassName} Skills at 25</h1>
+                <Skills skills={selectedClass.skills} />
+            </>
+        )}
 
         <h1 className="class-title">{selectedClassName} Season of Discovery Runes</h1>
         <div className="rune-category-container">

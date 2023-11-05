@@ -1,0 +1,10 @@
+.skills-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    max-width: 65%;
+}
+
+.skills-container > a {
+    color: #ffc415;
+}

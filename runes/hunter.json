@@ -2,6 +2,103 @@
     "hunter": {
         "iconSrc": "https://wow.zamimg.com/images/wow/icons/large/classicon_hunter.jpg",
         "name": "hunter",
+        "skills": [
+            {
+                "name": "Auto Shot",
+                "id": "75",
+                "rank": "1"
+            },
+            {
+                "name": "Raptor Strike",
+                "id": "14262",
+                "rank": "4"
+            },
+            {
+                "name": "Hunter's Mark",
+                "id": "14323",
+                "rank": "1"
+            },
+            {
+                "name": "Scorpid Sting",
+                "id": "3043",
+                "rank": "1"
+            },
+            {
+                "name": "Arcane Shot",
+                "id": "14282",
+                "rank": "3"
+            },
+            {
+                "name": "Distracting Shot",
+                "id": "14274",
+                "rank": "2"
+            },
+            {
+                "name": "Freezing Trap",
+                "id": "1499",
+                "rank": ""
+            },
+            {
+                "name": "Disengage",
+                "id": "781",
+                "rank": "1"
+            },
+            {
+                "name": "Aspect of the Cheetah",
+                "id": "5118",
+                "rank": ""
+            },
+            {
+                "name": "Aspect of the Hawk",
+                "id": "14318",
+                "rank": ""
+            },
+            {
+                "name": "Aspect of the Monkey",
+                "id": "13163",
+                "rank": ""
+            },
+            {
+                "name": "Serpent Sting",
+                "id": "13550",
+                "rank": "3"
+            },
+            {
+                "name": "Multi-Shot",
+                "id": "2643",
+                "rank": "1"
+            },
+            {
+                "name": "Immolation Trap",
+                "id": "13795",
+                "rank": "1"
+            },
+            {
+                "name": "Mongoose Bite",
+                "id": "1495",
+                "rank": "1"
+            },
+            {
+                "name": "Scare Beast",
+                "id": "1513",
+                "rank": "1"
+            },
+            {
+                "name": "Wing clip",
+                "id": "2975",
+                "rank": "1"
+            },
+            {
+                "name": "Mend Pet",
+                "id": "136",
+                "rank": "1"
+            },
+            {
+                "name": "Concussive Shot",
+                "id": "5116",
+                "rank": ""
+            }
+        ],
         "runes": {
             "chest": [
                 {
