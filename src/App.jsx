@@ -55,7 +55,6 @@ function App() {
 
   const selectedClass = classes.find(({ name }) => name === selectedClassName);
   const selectedIcon = "https://wow.zamimg.com/images/wow/icons/large/spell_nature_wispsplode.jpg";
-    console.log(selectedClass);
 
   // <a href="https://www.wowhead.com/classic/spell=75/auto-shot">foo</a>
   return (
