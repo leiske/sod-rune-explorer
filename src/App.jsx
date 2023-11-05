@@ -65,6 +65,8 @@ function App() {
                         key={sodClass.name}
                     >
                         <img 
+                            width="56"
+                            height="56"
                             src={sodClass.iconSrc === selectedClass.iconSrc ? selectedIcon : sodClass.iconSrc} 
                             className="class-icon"
                         />
