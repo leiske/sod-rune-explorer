@@ -29,7 +29,7 @@ export function SecondarySkill({ rune }) {
             {secondarySpells && secondarySpells.map(({ desc, icon, name }) => (
                 <div className="secondary-spell" key={desc + parentName}>
                     { name && <p className="tooltip-desc">{ name }</p> }
-                    <img className="tooltip-icon" src={icon}/>
+                    <img width="56" height="56" className="tooltip-icon" src={icon}/>
                     <Markdown className="tooltip-desc">{ desc }</Markdown>
                 </div>
             ))}
