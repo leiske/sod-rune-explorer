@@ -11,7 +11,7 @@
                 },
                 {
                     "name": "Serendipity",
-                    "desc": "Healing with Flash Heal reduces the cast time of your next Lesser Heal, Heal, greater Heal, or Prayer of Healing by 20% for 20 sec, stacking up to 3 times.",
+                    "desc": "Healing with Flash Heal reduces the cast time of your next Lesser Heal, Heal, Greater Heal, or Prayer of Healing by 20% for 20 sec, stacking up to 3 times.",
                     "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/serendipity.jpg"
                 },
                 {
@@ -50,7 +50,7 @@
             "leg": [
                 {
                     "name": "Prayer of Mending",
-                    "desc": "Places a spell on the target that heals them for 15 the next time they take damage or receive healing. When the heal occurs, Prayer of mending jumps to a party or raid member within 20 yards. Jumps up to 5 times and lasts 30 sec after each jump. This spell can only be placed on one target at a time.",
+                    "desc": "Places a spell on the target that heals them for 15 the next time they take damage or receive healing. When the heal occurs, Prayer of Mending jumps to a party or raid member within 20 yards. Jumps up to 5 times and lasts 30 sec after each jump. This spell can only be placed on one target at a time.",
                     "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/PoM-Icon.jpg"
                 },
                 {

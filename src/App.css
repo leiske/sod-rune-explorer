@@ -11,6 +11,7 @@ h1 {
     gap: 1rem;
     flex-wrap: wrap;
     justify-content: center;
+    margin-bottom: 1rem;
 }
 
 .rune-category {
@@ -21,7 +22,7 @@ h1 {
 
 .class-nav-container {
     background-color: #383838;
-    padding: 8px;
+    padding: 8px 0;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
