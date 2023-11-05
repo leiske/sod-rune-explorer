@@ -19,7 +19,7 @@
                     "desc": "Draw your ranged weapon and fire a quick shot at an enemy, causing normal ranged weapon damage and reducing the target's movement sped by 50% for 6 sec. Awards 1 combo point.",
                     "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/Quick-Draw-Icon.webp",
                     "bullets": [
-                        "Quick Draw benefits from all talents and effects that trigger from or modify Sinister Strike."
+                        "Quick Draw benefits from all talents and effects that trigger from or modify [Sinister Strike](https://www.wowhead.com/classic/spell=1752/sinister-strike)."
                     ]
                 },
                 {
@@ -47,7 +47,7 @@
                     "desc": "Viciously Slash an enemy for 130% weapon damage, and cause the target to bleed for 11 damage every 2 sec for 12 sec, stacking up to 3 times. Awards 1 combo point.",
                     "icon": "https://www.warcrafttavern.com/wp-content/uploads/2023/11/saber-slash.jpg",
                     "bullets": [
-                        "Saber Slash benefits from all talents and effects that trigger from or modify Sinister Strike."
+                        "Saber Slash benefits from all talents and effects that trigger from or modify [Sinister Strike](https://www.wowhead.com/classic/spell=1752/sinister-strike)."
                     ]
                 },
                 {
